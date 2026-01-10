@@ -1,0 +1,19 @@
+[Default Applications]
+image/jpeg=imv.desktop
+image/gif=imv.desktop
+image/webp=imv.desktop
+image/bmp=imv.desktop
+image/tiff=imv.desktop
+video/mp4=mpv.desktop
+video/x-matroska=mpv.desktop
+video/avi=mpv.desktop
+video/quicktime=mpv.desktop
+application/vnd.microsoft.portable-executable=wine.desktop
+
+[Added Associations]
+image/png=imv.desktop;
+video/webm=mpv.desktop;
+video/mp4=mpv.desktop;
+application/vnd.microsoft.portable-executable=wine.desktop;
+application/x-shellscript=vim.desktop;
+text/plain=org.lite_xl.lite_xl.desktop;

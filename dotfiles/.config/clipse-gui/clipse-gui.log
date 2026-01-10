@@ -1,0 +1,1748 @@
+2025-12-20 01:27:05 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-20 01:27:05 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2025-12-20 01:27:05 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2025-12-20 01:27:05 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2025-12-20 01:27:05 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 01:27:05 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2025-12-20 01:27:05 - clipse_gui.controller - DEBUG - Connecting signals.
+2025-12-20 01:27:05 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2025-12-20 01:27:05 - clipse_gui.data_manager - DEBUG - Loaded 3 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 01:27:05 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2025-12-20 01:27:05 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2025-12-20 01:27:05 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2025-12-20 01:27:05 - clipse_gui.app - DEBUG - Main window created and shown.
+2025-12-20 01:27:05 - clipse_gui.controller - DEBUG - Populating initial 3 rows.
+2025-12-20 01:27:05 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 2
+2025-12-20 01:27:10 - clipse_gui.tray_manager - DEBUG - AppIndicator created and set to ACTIVE
+2025-12-20 01:27:10 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-12-20 01:27:10 - clipse_gui.data_manager - DEBUG - Loaded 3 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 01:27:14 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 01:27:14 - clipse_gui.data_manager - DEBUG - Loaded 4 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 01:27:14 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 01:27:14 - clipse_gui.controller - DEBUG - Populating initial 4 rows.
+2025-12-20 01:27:14 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 3
+2025-12-20 01:30:15 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 01:30:15 - clipse_gui.data_manager - DEBUG - Loaded 4 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 01:30:15 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 01:30:15 - clipse_gui.controller - DEBUG - Populating initial 4 rows.
+2025-12-20 01:30:15 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 3
+2025-12-20 01:31:09 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 01:31:09 - clipse_gui.data_manager - DEBUG - Loaded 5 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 01:31:09 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 01:31:09 - clipse_gui.controller - DEBUG - Populating initial 5 rows.
+2025-12-20 01:31:09 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 4
+2025-12-20 01:32:00 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-20 01:32:00 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2025-12-20 01:32:00 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-20 01:32:07 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-12-20 01:32:07 - clipse_gui.data_manager - DEBUG - Loaded 5 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 01:37:19 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 01:37:19 - clipse_gui.data_manager - DEBUG - Loaded 6 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 01:37:19 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 01:37:19 - clipse_gui.controller - DEBUG - Populating initial 6 rows.
+2025-12-20 01:37:19 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 5
+2025-12-20 01:37:42 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 01:37:42 - clipse_gui.data_manager - DEBUG - Loaded 7 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 01:37:42 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 01:37:42 - clipse_gui.controller - DEBUG - Populating initial 7 rows.
+2025-12-20 01:37:42 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 6
+2025-12-20 01:37:49 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 01:37:49 - clipse_gui.data_manager - DEBUG - Loaded 8 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 01:37:49 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 01:37:49 - clipse_gui.controller - DEBUG - Populating initial 8 rows.
+2025-12-20 01:37:49 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 7
+2025-12-20 01:39:15 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 01:39:15 - clipse_gui.data_manager - DEBUG - Loaded 9 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 01:39:15 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 01:39:15 - clipse_gui.controller - DEBUG - Populating initial 9 rows.
+2025-12-20 01:39:15 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 8
+2025-12-20 01:39:21 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-20 01:39:21 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2025-12-20 01:39:21 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-20 01:39:25 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2025-12-20 01:39:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Image copied successfully.
+2025-12-20 01:39:25 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2025-12-20 01:39:25 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2025-12-20 01:39:25 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2025-12-20 01:39:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-12-20 01:39:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-12-20 01:39:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-12-20 01:39:26 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2025-12-20 01:39:26 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-20 02:09:05 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-20 02:09:05 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2025-12-20 02:09:05 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2025-12-20 02:09:05 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2025-12-20 02:09:05 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 02:09:05 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2025-12-20 02:09:05 - clipse_gui.controller - DEBUG - Connecting signals.
+2025-12-20 02:09:05 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2025-12-20 02:09:05 - clipse_gui.data_manager - DEBUG - Loaded 23 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 02:09:05 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2025-12-20 02:09:05 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2025-12-20 02:09:05 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2025-12-20 02:09:05 - clipse_gui.app - DEBUG - Main window created and shown.
+2025-12-20 02:09:05 - clipse_gui.controller - DEBUG - Populating initial 23 rows.
+2025-12-20 02:09:05 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 22
+2025-12-20 02:09:14 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2025-12-20 02:09:14 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2025-12-20 02:09:14 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 02:09:14 - clipse_gui.data_manager - DEBUG - Loaded 23 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 02:09:14 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 02:09:14 - clipse_gui.controller - DEBUG - Populating initial 23 rows.
+2025-12-20 02:09:14 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 22
+2025-12-20 02:09:14 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2025-12-20 02:09:14 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2025-12-20 02:09:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-12-20 02:09:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-12-20 02:09:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-12-20 02:09:14 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2025-12-20 02:09:14 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-20 02:10:48 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-20 02:10:48 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2025-12-20 02:10:48 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2025-12-20 02:10:48 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2025-12-20 02:10:48 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 02:10:48 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2025-12-20 02:10:48 - clipse_gui.controller - DEBUG - Connecting signals.
+2025-12-20 02:10:48 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2025-12-20 02:10:48 - clipse_gui.data_manager - DEBUG - Loaded 23 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 02:10:48 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2025-12-20 02:10:48 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2025-12-20 02:10:48 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2025-12-20 02:10:49 - clipse_gui.app - DEBUG - Main window created and shown.
+2025-12-20 02:10:49 - clipse_gui.controller - DEBUG - Populating initial 23 rows.
+2025-12-20 02:10:49 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 22
+2025-12-20 02:10:50 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2025-12-20 02:10:50 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2025-12-20 02:10:50 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2025-12-20 02:10:50 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2025-12-20 02:10:50 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-12-20 02:10:50 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-12-20 02:10:50 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-12-20 02:10:50 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2025-12-20 02:10:50 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-20 02:26:40 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-20 02:26:40 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2025-12-20 02:26:40 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2025-12-20 02:26:40 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2025-12-20 02:26:40 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 02:26:40 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2025-12-20 02:26:40 - clipse_gui.controller - DEBUG - Connecting signals.
+2025-12-20 02:26:40 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2025-12-20 02:26:40 - clipse_gui.data_manager - DEBUG - Loaded 24 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 02:26:40 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2025-12-20 02:26:40 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2025-12-20 02:26:40 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2025-12-20 02:26:40 - clipse_gui.app - DEBUG - Main window created and shown.
+2025-12-20 02:26:40 - clipse_gui.controller - DEBUG - Populating initial 24 rows.
+2025-12-20 02:26:40 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 23
+2025-12-20 02:26:42 - clipse_gui.tray_manager - DEBUG - AppIndicator created and set to ACTIVE
+2025-12-20 02:26:42 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-12-20 02:26:42 - clipse_gui.data_manager - DEBUG - Loaded 24 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 02:48:37 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 02:48:37 - clipse_gui.data_manager - DEBUG - Loaded 25 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 02:48:37 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 02:48:37 - clipse_gui.controller - DEBUG - Populating initial 25 rows.
+2025-12-20 02:48:37 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 24
+2025-12-20 02:48:48 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 02:48:48 - clipse_gui.data_manager - DEBUG - Loaded 26 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 02:48:48 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 02:48:48 - clipse_gui.controller - DEBUG - Populating initial 26 rows.
+2025-12-20 02:48:48 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 25
+2025-12-20 02:50:11 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 02:50:11 - clipse_gui.data_manager - DEBUG - Loaded 27 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 02:50:11 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 02:50:11 - clipse_gui.controller - DEBUG - Populating initial 27 rows.
+2025-12-20 02:50:11 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 26
+2025-12-20 02:51:06 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 02:51:06 - clipse_gui.data_manager - DEBUG - Loaded 27 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 02:51:06 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 02:51:06 - clipse_gui.controller - DEBUG - Populating initial 27 rows.
+2025-12-20 02:51:06 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 26
+2025-12-20 20:23:23 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-20 20:23:23 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2025-12-20 20:23:23 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2025-12-20 20:23:23 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2025-12-20 20:23:23 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 20:23:23 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2025-12-20 20:23:23 - clipse_gui.controller - DEBUG - Connecting signals.
+2025-12-20 20:23:23 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2025-12-20 20:23:23 - clipse_gui.data_manager - DEBUG - Loaded 39 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 20:23:23 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2025-12-20 20:23:23 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2025-12-20 20:23:23 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2025-12-20 20:23:23 - clipse_gui.app - DEBUG - Main window created and shown.
+2025-12-20 20:23:23 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-20 20:23:23 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-20 20:23:23 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 38
+2025-12-20 20:23:23 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 38
+2025-12-20 20:23:23 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 38
+2025-12-20 20:23:25 - clipse_gui.tray_manager - DEBUG - AppIndicator created and set to ACTIVE
+2025-12-20 20:23:25 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-12-20 20:23:25 - clipse_gui.data_manager - DEBUG - Loaded 39 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 20:29:46 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 20:29:46 - clipse_gui.data_manager - DEBUG - Loaded 40 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 20:29:46 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 20:29:46 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-20 20:29:46 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-20 20:31:32 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 20:31:32 - clipse_gui.data_manager - DEBUG - Loaded 41 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 20:31:32 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 20:31:32 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-20 20:31:32 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-20 20:40:36 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 20:40:36 - clipse_gui.data_manager - DEBUG - Loaded 42 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 20:40:36 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 20:40:36 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-20 20:40:36 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-20 20:43:40 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 20:43:40 - clipse_gui.data_manager - DEBUG - Loaded 43 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 20:43:40 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 20:43:40 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-20 20:43:40 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-20 20:44:53 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 20:44:53 - clipse_gui.data_manager - DEBUG - Loaded 43 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 20:44:53 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 20:44:53 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-20 20:44:53 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-20 20:57:18 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 20:57:18 - clipse_gui.data_manager - DEBUG - Loaded 44 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 20:57:18 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 20:57:18 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-20 20:57:18 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-20 21:34:09 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-20 21:34:09 - clipse_gui.data_manager - DEBUG - Loaded 45 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 21:34:09 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-20 21:34:09 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-20 21:34:09 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-20 22:01:20 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-20 22:01:20 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2025-12-20 22:01:20 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2025-12-20 22:01:20 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2025-12-20 22:01:20 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 22:01:20 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2025-12-20 22:01:20 - clipse_gui.controller - DEBUG - Connecting signals.
+2025-12-20 22:01:20 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2025-12-20 22:01:20 - clipse_gui.data_manager - DEBUG - Loaded 45 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 22:01:20 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2025-12-20 22:01:20 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2025-12-20 22:01:20 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2025-12-20 22:01:20 - clipse_gui.app - DEBUG - Main window created and shown.
+2025-12-20 22:01:20 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-20 22:01:20 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-20 22:01:20 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 44
+2025-12-20 22:01:20 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 44
+2025-12-20 22:01:20 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 44
+2025-12-20 22:01:23 - clipse_gui.tray_manager - DEBUG - AppIndicator created and set to ACTIVE
+2025-12-20 22:01:23 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-12-20 22:01:23 - clipse_gui.data_manager - DEBUG - Loaded 45 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-20 22:15:22 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2025-12-20 22:15:22 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-22 23:27:19 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-22 23:27:20 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2025-12-22 23:27:20 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2025-12-22 23:27:20 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2025-12-22 23:27:20 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-22 23:27:20 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2025-12-22 23:27:20 - clipse_gui.controller - DEBUG - Connecting signals.
+2025-12-22 23:27:20 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2025-12-22 23:27:20 - clipse_gui.data_manager - DEBUG - Loaded 86 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-22 23:27:20 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2025-12-22 23:27:20 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2025-12-22 23:27:20 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2025-12-22 23:27:20 - clipse_gui.app - DEBUG - Main window created and shown.
+2025-12-22 23:27:20 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-22 23:27:20 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-22 23:27:20 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2025-12-22 23:27:20 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2025-12-22 23:27:20 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2025-12-22 23:27:21 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-22 23:27:21 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-22 23:27:21 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2025-12-22 23:27:22 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-22 23:27:22 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2025-12-22 23:27:22 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-22 23:27:22 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-22 23:27:22 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2025-12-22 23:27:22 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-22 23:27:23 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-22 23:27:23 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2025-12-22 23:27:23 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-22 23:27:25 - clipse_gui.tray_manager - DEBUG - AppIndicator created and set to ACTIVE
+2025-12-22 23:27:25 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-12-22 23:27:25 - clipse_gui.data_manager - DEBUG - Loaded 86 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-22 23:31:35 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-22 23:31:35 - clipse_gui.data_manager - DEBUG - Loaded 87 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-22 23:31:35 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-22 23:31:35 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-22 23:31:35 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-22 23:35:32 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-22 23:35:32 - clipse_gui.data_manager - DEBUG - Loaded 88 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-22 23:35:32 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-22 23:35:32 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-22 23:35:32 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-22 23:39:23 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-22 23:39:23 - clipse_gui.data_manager - DEBUG - Loaded 88 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-22 23:39:23 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-22 23:39:23 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-22 23:39:23 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-22 23:40:27 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-22 23:40:27 - clipse_gui.data_manager - DEBUG - Loaded 89 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-22 23:40:27 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-22 23:40:27 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-22 23:40:27 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-22 23:42:21 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-22 23:42:21 - clipse_gui.data_manager - DEBUG - Loaded 90 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-22 23:42:21 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-22 23:42:21 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-22 23:42:21 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-22 23:42:42 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-22 23:42:42 - clipse_gui.data_manager - DEBUG - Loaded 91 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-22 23:42:42 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-22 23:42:42 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-22 23:42:42 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-22 23:43:09 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-22 23:43:09 - clipse_gui.data_manager - DEBUG - Loaded 92 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-22 23:43:09 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-22 23:43:09 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-22 23:43:09 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-22 23:47:37 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-22 23:47:37 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2025-12-22 23:47:37 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-22 23:47:45 - clipse_gui.controller - DEBUG - Triggering filter update for search: 'q'
+2025-12-22 23:47:45 - clipse_gui.controller - DEBUG - Populating initial 10 rows.
+2025-12-22 23:47:45 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 9
+2025-12-22 23:47:47 - clipse_gui.controller - DEBUG - Triggering filter update for search: ''
+2025-12-22 23:47:47 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-22 23:47:47 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-22 23:47:49 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-12-22 23:47:49 - clipse_gui.data_manager - DEBUG - Loaded 92 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 00:08:37 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-23 00:08:37 - clipse_gui.data_manager - DEBUG - Loaded 93 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 00:08:37 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-23 00:08:37 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-23 00:08:37 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-23 00:11:16 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-23 00:11:16 - clipse_gui.data_manager - DEBUG - Loaded 94 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 00:11:16 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-23 00:11:16 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-23 00:11:16 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-23 00:21:47 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-23 00:21:47 - clipse_gui.data_manager - DEBUG - Loaded 95 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 00:21:47 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-23 00:21:47 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-23 00:21:47 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-23 00:28:42 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-23 00:28:42 - clipse_gui.data_manager - DEBUG - Loaded 96 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 00:28:42 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-23 00:28:42 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-23 00:28:42 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-23 00:30:45 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-23 00:30:45 - clipse_gui.data_manager - DEBUG - Loaded 97 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 00:30:45 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-23 00:30:45 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-23 00:30:45 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-23 01:24:01 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-23 01:24:01 - clipse_gui.data_manager - DEBUG - Loaded 98 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 01:24:01 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-23 01:24:01 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-23 01:24:01 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-23 01:24:21 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-23 01:24:21 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2025-12-23 01:24:21 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-23 01:24:25 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2025-12-23 01:24:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Image copied successfully.
+2025-12-23 01:24:25 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2025-12-23 01:24:25 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2025-12-23 01:24:25 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2025-12-23 01:24:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-12-23 01:24:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-12-23 01:24:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-12-23 01:24:26 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2025-12-23 01:24:26 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-23 15:48:20 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-23 15:48:20 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2025-12-23 15:48:20 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2025-12-23 15:48:20 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2025-12-23 15:48:20 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 15:48:20 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2025-12-23 15:48:20 - clipse_gui.controller - DEBUG - Connecting signals.
+2025-12-23 15:48:20 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2025-12-23 15:48:20 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 15:48:20 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2025-12-23 15:48:20 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2025-12-23 15:48:20 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2025-12-23 15:48:20 - clipse_gui.app - DEBUG - Main window created and shown.
+2025-12-23 15:48:20 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-23 15:48:20 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-23 15:48:20 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2025-12-23 15:48:20 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2025-12-23 15:48:20 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2025-12-23 15:48:25 - clipse_gui.tray_manager - DEBUG - AppIndicator created and set to ACTIVE
+2025-12-23 15:48:25 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-12-23 15:48:26 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 15:48:42 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-23 15:48:43 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2025-12-23 15:48:43 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-23 15:49:20 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-12-23 15:49:20 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 15:52:15 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-23 15:52:15 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 15:52:15 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-23 15:52:15 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-23 15:52:15 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-23 15:52:34 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-23 15:52:34 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2025-12-23 15:52:34 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-23 15:52:37 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-12-23 15:52:37 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 15:53:01 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-23 15:53:01 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 15:53:01 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-23 15:53:01 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-23 15:53:01 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-23 15:55:24 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-23 15:55:24 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 15:55:24 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-23 15:55:24 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-23 15:55:24 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-23 15:57:51 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-23 15:57:51 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 15:57:51 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-23 15:57:51 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-23 15:57:51 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-23 15:58:27 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-23 15:58:27 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 15:58:27 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-23 15:58:27 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-23 15:58:27 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-23 16:03:27 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-23 16:03:27 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 16:03:27 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-23 16:03:27 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-23 16:03:27 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-23 16:10:11 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-23 16:10:11 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 16:10:11 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-23 16:10:11 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-23 16:10:11 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-23 16:11:07 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-23 16:11:07 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-23 16:11:07 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-23 16:11:07 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-23 16:11:07 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-23 16:14:21 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2025-12-23 16:14:21 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-24 16:20:06 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-24 16:20:06 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2025-12-24 16:20:06 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2025-12-24 16:20:06 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2025-12-24 16:20:06 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:20:06 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2025-12-24 16:20:06 - clipse_gui.controller - DEBUG - Connecting signals.
+2025-12-24 16:20:06 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2025-12-24 16:20:06 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:20:06 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2025-12-24 16:20:06 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2025-12-24 16:20:06 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2025-12-24 16:20:06 - clipse_gui.app - DEBUG - Main window created and shown.
+2025-12-24 16:20:06 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 16:20:06 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 16:20:06 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2025-12-24 16:20:06 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2025-12-24 16:20:06 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2025-12-24 16:20:13 - clipse_gui.tray_manager - DEBUG - AppIndicator created and set to ACTIVE
+2025-12-24 16:20:13 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-12-24 16:20:13 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:21:24 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-24 16:21:24 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2025-12-24 16:21:24 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-24 16:21:33 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-12-24 16:21:33 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:22:00 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2025-12-24 16:22:00 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-24 16:22:04 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-24 16:22:04 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2025-12-24 16:22:04 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2025-12-24 16:22:04 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2025-12-24 16:22:04 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:22:04 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2025-12-24 16:22:04 - clipse_gui.controller - DEBUG - Connecting signals.
+2025-12-24 16:22:04 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2025-12-24 16:22:04 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:22:04 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2025-12-24 16:22:04 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2025-12-24 16:22:04 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2025-12-24 16:22:04 - clipse_gui.app - DEBUG - Main window created and shown.
+2025-12-24 16:22:04 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 16:22:04 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 16:22:04 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2025-12-24 16:22:04 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2025-12-24 16:22:04 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2025-12-24 16:22:06 - clipse_gui.tray_manager - DEBUG - AppIndicator created and set to ACTIVE
+2025-12-24 16:22:06 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-12-24 16:22:06 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:22:19 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-24 16:22:19 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2025-12-24 16:22:19 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-24 16:22:21 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-12-24 16:22:21 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:23:35 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 16:23:35 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:23:35 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 16:23:35 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 16:23:35 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 16:23:49 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 16:23:49 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:23:49 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 16:23:49 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 16:23:49 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 16:25:20 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 16:25:20 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:25:20 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 16:25:20 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 16:25:20 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 16:26:46 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 16:26:46 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:26:46 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 16:26:46 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 16:26:46 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 16:27:01 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 16:27:01 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:27:01 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 16:27:01 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 16:27:01 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 16:27:22 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 16:27:22 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:27:22 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 16:27:22 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 16:27:22 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 16:30:17 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 16:30:17 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:30:17 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 16:30:17 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 16:30:17 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 16:32:27 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 16:32:27 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:32:27 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 16:32:27 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 16:32:27 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 16:47:28 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 16:47:28 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:47:28 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 16:47:28 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 16:47:28 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 16:50:23 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 16:50:23 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:50:23 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 16:50:23 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 16:50:23 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 16:57:19 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 16:57:19 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 16:57:19 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 16:57:19 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 16:57:19 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 17:01:36 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 17:01:36 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 17:01:36 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 17:01:36 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 17:01:36 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 17:01:49 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 17:01:49 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 17:01:49 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 17:01:49 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 17:01:49 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 17:02:00 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 17:02:00 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 17:02:00 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 17:02:00 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 17:02:00 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 17:02:26 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 17:02:26 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 17:02:26 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 17:02:26 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 17:02:26 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 17:03:04 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 17:03:04 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 17:03:04 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 17:03:04 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 17:03:04 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 17:21:18 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 17:21:18 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 17:21:18 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 17:21:18 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 17:21:18 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 17:21:34 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 17:21:34 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 17:21:34 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 17:21:34 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 17:21:34 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 17:34:33 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 17:34:33 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 17:34:33 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 17:34:33 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 17:34:33 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 17:34:38 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 17:34:38 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 17:34:38 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 17:34:38 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 17:34:38 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 17:34:44 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-24 17:34:44 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2025-12-24 17:34:44 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-24 17:34:46 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2025-12-24 17:34:46 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2025-12-24 17:34:46 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2025-12-24 17:34:46 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2025-12-24 17:34:46 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-12-24 17:34:46 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-12-24 17:34:46 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-24 17:34:46 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-24 17:34:46 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-24 17:34:46 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-24 17:34:46 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-24 17:34:46 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-12-24 17:34:46 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2025-12-24 17:34:46 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-25 20:14:29 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-25 20:14:29 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2025-12-25 20:14:29 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2025-12-25 20:14:29 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2025-12-25 20:14:29 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:14:29 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2025-12-25 20:14:29 - clipse_gui.controller - DEBUG - Connecting signals.
+2025-12-25 20:14:29 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2025-12-25 20:14:29 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:14:29 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2025-12-25 20:14:29 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2025-12-25 20:14:29 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2025-12-25 20:14:29 - clipse_gui.app - DEBUG - Main window created and shown.
+2025-12-25 20:14:29 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 20:14:29 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 20:14:29 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2025-12-25 20:14:29 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2025-12-25 20:14:29 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2025-12-25 20:14:33 - clipse_gui.tray_manager - DEBUG - AppIndicator created and set to ACTIVE
+2025-12-25 20:14:33 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-12-25 20:14:33 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:15:05 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 20:15:05 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:15:05 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 20:15:05 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 20:15:05 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 20:23:26 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 20:23:26 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:23:26 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 20:23:26 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 20:23:26 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 20:23:31 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Image copied successfully.
+2025-12-25 20:23:32 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 20:23:32 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:23:32 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 20:23:32 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 20:23:32 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 20:23:36 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-25 20:23:36 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2025-12-25 20:23:36 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-25 20:23:36 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-12-25 20:23:36 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:28:32 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 20:28:32 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:28:32 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 20:28:32 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 20:28:32 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 20:29:41 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 20:29:41 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:29:41 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 20:29:41 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 20:29:41 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 20:30:18 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 20:30:18 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:30:18 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 20:30:18 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 20:30:18 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 20:30:59 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 20:30:59 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:30:59 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 20:30:59 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 20:30:59 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 20:35:36 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 20:35:36 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:35:36 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 20:35:36 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 20:35:36 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 20:37:35 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 20:37:35 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:37:35 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 20:37:35 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 20:37:35 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 20:38:11 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 20:38:11 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:38:11 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 20:38:11 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 20:38:11 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 20:43:21 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 20:43:21 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:43:21 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 20:43:21 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 20:43:21 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 20:53:04 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 20:53:04 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:53:04 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 20:53:04 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 20:53:04 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 20:54:34 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 20:54:34 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:54:34 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 20:54:34 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 20:54:34 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 20:56:03 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 20:56:03 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:56:03 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 20:56:03 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 20:56:03 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 20:57:59 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 20:57:59 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 20:57:59 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 20:57:59 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 20:57:59 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 21:02:00 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 21:02:00 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 21:02:00 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 21:02:00 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 21:02:00 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 21:02:12 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 21:02:12 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 21:02:12 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 21:02:12 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 21:02:12 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 21:02:16 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 21:02:16 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 21:02:16 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 21:02:16 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 21:02:16 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 21:07:05 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 21:07:05 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 21:07:05 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 21:07:05 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 21:07:05 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 21:45:55 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 21:45:55 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 21:45:55 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 21:45:55 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 21:45:55 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 21:49:53 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 21:49:53 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 21:49:53 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 21:49:53 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 21:49:53 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 21:51:15 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 21:51:15 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 21:51:15 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 21:51:15 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 21:51:15 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 21:52:24 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 21:52:24 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 21:52:24 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 21:52:24 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 21:52:24 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 21:52:41 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 21:52:41 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 21:52:41 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 21:52:41 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 21:52:41 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 21:53:16 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 21:53:16 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 21:53:16 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 21:53:16 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 21:53:16 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 21:53:41 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 21:53:41 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 21:53:41 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 21:53:41 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 21:53:41 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 21:53:46 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 21:53:46 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 21:53:46 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 21:53:46 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 21:53:46 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 21:53:49 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 21:53:49 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 21:53:49 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 21:53:49 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 21:53:49 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 21:54:20 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 21:54:20 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 21:54:20 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 21:54:20 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 21:54:20 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 23:27:20 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 23:27:20 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 23:27:20 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 23:27:20 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 23:27:20 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 23:30:47 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 23:30:47 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 23:30:47 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 23:30:47 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 23:30:47 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 23:31:58 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 23:31:58 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 23:31:58 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 23:31:58 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 23:31:58 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 23:42:59 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 23:42:59 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 23:42:59 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 23:42:59 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 23:42:59 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 23:53:32 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 23:53:32 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 23:53:32 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 23:53:32 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 23:53:32 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 23:54:01 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 23:54:01 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 23:54:01 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 23:54:01 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 23:54:01 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 23:55:02 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 23:55:02 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 23:55:02 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 23:55:02 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 23:55:02 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 23:55:14 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 23:55:14 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 23:55:14 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 23:55:14 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 23:55:14 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 23:55:37 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 23:55:37 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 23:55:37 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 23:55:37 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 23:55:37 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 23:57:33 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 23:57:33 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 23:57:33 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 23:57:33 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 23:57:33 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-25 23:57:57 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-25 23:57:57 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-25 23:57:57 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-25 23:57:57 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-25 23:57:57 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 00:01:19 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 00:01:19 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 00:01:19 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 00:01:19 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 00:01:19 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 00:08:13 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 00:08:13 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 00:08:13 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 00:08:13 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 00:08:13 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 00:11:51 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 00:11:51 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 00:11:51 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 00:11:51 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 00:11:51 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 00:14:42 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 00:14:42 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 00:14:42 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 00:14:42 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 00:14:42 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 00:16:29 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 00:16:29 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 00:16:29 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 00:16:29 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 00:16:29 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 00:17:10 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 00:17:10 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 00:17:10 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 00:17:10 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 00:17:10 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 00:17:55 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 00:17:55 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 00:17:55 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 00:17:55 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 00:17:55 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 00:18:25 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 00:18:25 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 00:18:25 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 00:18:25 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 00:18:25 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 00:20:02 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 00:20:02 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 00:20:02 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 00:20:02 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 00:20:02 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 00:23:09 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 00:23:09 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 00:23:09 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 00:23:09 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 00:23:09 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 00:23:19 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 00:23:19 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 00:23:19 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 00:23:19 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 00:23:19 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 00:23:29 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 00:23:29 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 00:23:29 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 00:23:29 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 00:23:29 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 00:33:44 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 00:33:44 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 00:33:44 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 00:33:44 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 00:33:44 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 00:35:36 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 00:35:36 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 00:35:36 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 00:35:36 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 00:35:36 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 00:52:48 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 00:52:48 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 00:52:48 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 00:52:48 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 00:52:48 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 00:53:40 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 00:53:40 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 00:53:40 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 00:53:40 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 00:53:40 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 00:54:17 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 00:54:17 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 00:54:17 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 00:54:17 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 00:54:17 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:05:39 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:05:39 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:05:39 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:05:39 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:05:39 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:08:42 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:08:42 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:08:42 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:08:42 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:08:42 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:09:51 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:09:51 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:09:51 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:09:51 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:09:51 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:10:41 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:10:41 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:10:41 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:10:41 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:10:41 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:12:06 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:12:06 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:12:06 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:12:06 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:12:06 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:13:06 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:13:06 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:13:06 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:13:06 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:13:06 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:13:25 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:13:25 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:13:25 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:13:25 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:13:25 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:13:51 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:13:51 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:13:51 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:13:51 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:13:51 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:14:03 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:14:03 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:14:03 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:14:03 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:14:03 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:14:10 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:14:10 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:14:10 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:14:10 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:14:10 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:14:22 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:14:22 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:14:22 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:14:22 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:14:22 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:14:45 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:14:45 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:14:45 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:14:45 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:14:45 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:15:01 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:15:01 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:15:01 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:15:01 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:15:01 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:16:21 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:16:21 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:16:21 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:16:21 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:16:21 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:19:08 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:19:08 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:19:08 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:19:08 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:19:08 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:28:22 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:28:22 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:28:22 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:28:22 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:28:22 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:29:18 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:29:18 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:29:18 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:29:18 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:29:18 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:29:26 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:29:26 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:29:26 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:29:26 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:29:26 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:30:23 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:30:23 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:30:23 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:30:23 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:30:23 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:37:50 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:37:50 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:37:50 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:37:50 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:37:50 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:39:45 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:39:45 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:39:45 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:39:45 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:39:45 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:39:55 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:39:55 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:39:55 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:39:55 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:39:55 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:40:31 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:40:31 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:40:31 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:40:31 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:40:31 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:40:38 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:40:38 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:40:38 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:40:38 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:40:38 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:40:40 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:40:40 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:40:40 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:40:40 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:40:40 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:40:51 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:40:51 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:40:51 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:40:51 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:40:51 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:41:37 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:41:37 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:41:37 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:41:37 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:41:37 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:42:30 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:42:30 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:42:30 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:42:30 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:42:30 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:42:55 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:42:55 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:42:55 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:42:55 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:42:55 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:46:30 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:46:30 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:46:30 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:46:30 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:46:30 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:48:03 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:48:03 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:48:03 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:48:03 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:48:03 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:49:29 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:49:29 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:49:29 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:49:29 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:49:29 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:52:26 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:52:26 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:52:26 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:52:26 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:52:26 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:53:06 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:53:06 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:53:06 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:53:06 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:53:06 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:53:30 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:53:30 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:53:30 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:53:30 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:53:30 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:55:41 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:55:41 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:55:41 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:55:41 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:55:41 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:56:21 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:56:21 - [1;34mclipse_gui.data_manager[0m - [1;33mWARNING[0m - History file /home/flyingyu/.config/clipse/clipboard_history.json is empty. Starting fresh.
+2025-12-26 01:56:21 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:56:21 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2025-12-26 01:56:21 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:56:21 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:56:21 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:56:21 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:56:21 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:56:33 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:56:33 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:56:33 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:56:33 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:56:33 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:57:01 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:57:01 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:57:01 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:57:01 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:57:01 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:59:00 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:59:00 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:59:00 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:59:00 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:59:00 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:59:04 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:59:04 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:59:04 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:59:04 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:59:04 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:59:19 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:59:19 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:59:19 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:59:19 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:59:19 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 01:59:27 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 01:59:27 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 01:59:27 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 01:59:27 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 01:59:27 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-26 02:00:10 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-26 02:00:10 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-26 02:00:10 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-26 02:00:10 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-26 02:00:10 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-28 20:40:39 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2025-12-28 20:40:39 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2025-12-28 20:40:39 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2025-12-28 20:40:39 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2025-12-28 20:40:39 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-28 20:40:39 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2025-12-28 20:40:39 - clipse_gui.controller - DEBUG - Connecting signals.
+2025-12-28 20:40:39 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2025-12-28 20:40:39 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-28 20:40:39 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2025-12-28 20:40:39 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2025-12-28 20:40:39 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2025-12-28 20:40:39 - clipse_gui.app - DEBUG - Main window created and shown.
+2025-12-28 20:40:39 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-28 20:40:39 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-28 20:40:39 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2025-12-28 20:40:39 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2025-12-28 20:40:39 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2025-12-28 20:40:41 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2025-12-28 20:40:41 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2025-12-28 20:40:41 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2025-12-28 20:40:41 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2025-12-28 20:40:41 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-28 20:40:41 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-12-28 20:40:41 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-12-28 20:40:41 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2025-12-28 20:40:41 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2025-12-28 20:40:41 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-12-28 20:40:41 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-12-28 20:40:41 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-12-28 20:40:41 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2025-12-28 20:40:41 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2026-01-01 22:44:21 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-01 22:44:21 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2026-01-01 22:44:21 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2026-01-01 22:44:21 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2026-01-01 22:44:21 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 22:44:21 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2026-01-01 22:44:21 - clipse_gui.controller - DEBUG - Connecting signals.
+2026-01-01 22:44:21 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2026-01-01 22:44:21 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 22:44:21 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2026-01-01 22:44:21 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2026-01-01 22:44:21 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2026-01-01 22:44:21 - clipse_gui.app - DEBUG - Main window created and shown.
+2026-01-01 22:44:21 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 22:44:21 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 22:44:21 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2026-01-01 22:44:21 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2026-01-01 22:44:21 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2026-01-01 22:44:21 - clipse_gui.controller - DEBUG - Scheduling load more: rows 50 to 69
+2026-01-01 22:44:21 - clipse_gui.controller - DEBUG - Executing load more: rows 50 to 69
+2026-01-01 22:44:21 - clipse_gui.controller - DEBUG - Creating rows from filtered index 50 to 69
+2026-01-01 22:44:31 - clipse_gui.tray_manager - DEBUG - AppIndicator created and set to ACTIVE
+2026-01-01 22:44:31 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2026-01-01 22:44:31 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 22:44:52 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 22:44:52 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 22:44:52 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 22:44:52 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 22:44:52 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 22:51:24 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 22:51:24 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 22:51:24 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 22:51:24 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 22:51:24 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 22:51:44 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 22:51:44 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 22:51:44 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 22:51:44 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 22:51:44 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 22:54:17 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 22:54:17 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 22:54:17 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 22:54:17 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 22:54:17 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 22:55:08 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 22:55:08 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 22:55:08 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 22:55:08 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 22:55:08 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 22:55:17 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 22:55:17 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 22:55:17 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 22:55:17 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 22:55:17 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 22:56:03 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 22:56:03 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 22:56:03 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 22:56:03 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 22:56:03 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 22:57:01 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 22:57:01 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 22:57:01 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 22:57:01 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 22:57:01 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 22:59:07 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 22:59:07 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 22:59:07 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 22:59:07 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 22:59:07 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:00:03 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:00:03 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:00:03 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:00:03 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:00:03 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:01:05 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:01:05 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:01:05 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:01:05 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:01:05 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:02:06 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:02:06 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:02:06 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:02:06 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:02:06 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:02:22 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:02:22 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:02:22 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:02:22 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:02:22 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:02:42 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:02:42 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:02:42 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:02:42 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:02:42 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:03:50 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:03:50 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:03:50 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:03:50 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:03:50 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:07:54 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:07:54 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:07:54 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:07:54 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:07:54 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:12:21 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:12:21 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:12:21 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:12:21 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:12:21 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:14:32 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:14:32 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:14:32 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:14:32 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:14:32 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:16:17 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:16:17 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:16:17 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:16:17 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:16:17 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:16:58 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:16:58 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:16:58 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:16:58 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:16:58 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:17:41 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:17:41 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:17:41 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:17:41 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:17:41 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:19:32 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:19:32 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:19:32 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:19:32 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:19:32 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:19:48 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:19:48 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:19:48 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:19:48 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:19:48 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:21:39 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:21:39 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:21:39 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:21:39 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:21:39 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:23:57 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:23:57 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:23:57 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:23:57 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:23:57 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:25:21 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:25:22 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:25:22 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:25:22 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:25:22 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:29:07 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:29:07 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:29:07 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:29:07 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:29:07 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:29:15 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:29:15 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:29:15 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:29:15 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:29:15 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:30:01 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:30:01 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:30:01 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:30:01 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:30:01 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:31:01 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:31:01 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:31:01 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:31:01 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:31:01 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:38:48 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:38:48 - [1;34mclipse_gui.data_manager[0m - [1;33mWARNING[0m - History file /home/flyingyu/.config/clipse/clipboard_history.json is empty. Starting fresh.
+2026-01-01 23:38:48 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:38:48 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2026-01-01 23:38:48 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:38:48 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:38:48 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:38:48 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:38:48 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:39:55 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:39:55 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:39:55 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:39:55 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:39:55 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:42:09 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:42:09 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:42:09 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:42:09 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:42:09 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:43:34 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:43:34 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:43:34 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:43:34 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:43:34 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:44:10 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:44:10 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:44:10 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:44:10 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:44:10 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:45:02 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:45:02 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:45:02 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:45:02 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:45:02 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:46:43 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:46:43 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:46:43 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:46:43 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:46:43 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:49:57 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:49:57 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:49:57 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:49:57 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:49:57 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:50:17 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:50:17 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:50:17 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:50:17 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:50:17 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:52:29 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:52:29 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:52:29 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:52:29 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:52:29 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:53:01 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:53:01 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:53:01 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:53:01 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:53:01 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:56:19 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:56:19 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:56:19 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:56:19 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:56:19 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:57:04 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:57:04 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:57:04 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:57:04 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:57:04 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:58:11 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-01 23:58:11 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:58:11 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-01 23:58:11 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-01 23:58:11 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-01 23:59:54 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-01 23:59:54 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2026-01-01 23:59:54 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2026-01-01 23:59:54 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2026-01-01 23:59:54 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:59:57 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-01 23:59:57 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2026-01-01 23:59:57 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2026-01-01 23:59:57 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2026-01-01 23:59:57 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-01 23:59:58 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-01 23:59:58 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2026-01-01 23:59:58 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2026-01-01 23:59:58 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2026-01-01 23:59:58 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-02 00:00:04 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-02 00:00:04 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2026-01-02 00:00:04 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2026-01-02 00:00:04 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-02 00:00:04 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2026-01-02 00:00:04 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2026-01-02 00:00:06 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2026-01-02 00:00:06 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2026-01-02 00:00:06 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2026-01-02 00:00:06 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2026-01-02 00:00:06 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2026-01-02 00:00:06 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2026-01-02 00:00:06 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-02 00:00:07 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-02 00:00:07 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-02 00:00:07 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-02 00:00:07 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-02 00:00:07 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2026-01-02 00:00:07 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2026-01-02 00:00:07 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2026-01-02 00:00:11 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-02 00:00:11 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2026-01-02 00:00:11 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2026-01-02 00:00:11 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2026-01-02 00:00:11 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-02 00:00:11 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2026-01-02 00:00:11 - clipse_gui.controller - DEBUG - Connecting signals.
+2026-01-02 00:00:11 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2026-01-02 00:00:11 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-02 00:00:11 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2026-01-02 00:00:11 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2026-01-02 00:00:11 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2026-01-02 00:00:11 - clipse_gui.app - DEBUG - Main window created and shown.
+2026-01-02 00:00:11 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-02 00:00:11 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-02 00:00:11 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2026-01-02 00:00:11 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2026-01-02 00:00:11 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2026-01-02 00:00:11 - clipse_gui.controller - DEBUG - Scheduling load more: rows 50 to 69
+2026-01-02 00:00:11 - clipse_gui.controller - DEBUG - Executing load more: rows 50 to 69
+2026-01-02 00:00:11 - clipse_gui.controller - DEBUG - Creating rows from filtered index 50 to 69
+2026-01-02 00:00:12 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2026-01-02 00:00:12 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2026-01-02 00:00:12 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-02 00:00:12 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-02 00:00:12 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-02 00:00:12 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-02 00:00:12 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-02 00:00:12 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2026-01-02 00:00:12 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2026-01-02 00:00:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2026-01-02 00:00:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2026-01-02 00:00:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2026-01-02 00:00:12 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2026-01-02 00:00:12 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2026-01-02 00:44:07 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-02 00:44:07 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2026-01-02 00:44:07 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2026-01-02 00:44:07 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2026-01-02 00:44:07 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-02 00:44:07 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2026-01-02 00:44:07 - clipse_gui.controller - DEBUG - Connecting signals.
+2026-01-02 00:44:07 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2026-01-02 00:44:07 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-02 00:44:07 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2026-01-02 00:44:07 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2026-01-02 00:44:07 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2026-01-02 00:44:07 - clipse_gui.app - DEBUG - Main window created and shown.
+2026-01-02 00:44:07 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-02 00:44:07 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-02 00:44:07 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2026-01-02 00:44:07 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2026-01-02 00:44:07 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2026-01-02 00:44:07 - clipse_gui.controller - DEBUG - Scheduling load more: rows 50 to 69
+2026-01-02 00:44:07 - clipse_gui.controller - DEBUG - Executing load more: rows 50 to 69
+2026-01-02 00:44:07 - clipse_gui.controller - DEBUG - Creating rows from filtered index 50 to 69
+2026-01-02 00:44:09 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2026-01-02 00:44:09 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2026-01-02 00:44:09 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-02 00:44:09 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-02 00:44:09 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-02 00:44:09 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-02 00:44:09 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-02 00:44:09 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2026-01-02 00:44:09 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2026-01-02 00:44:09 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2026-01-02 00:44:09 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2026-01-02 00:44:09 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2026-01-02 00:44:09 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2026-01-02 00:44:09 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2026-01-02 01:30:29 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-02 01:30:29 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2026-01-02 01:30:29 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2026-01-02 01:30:29 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2026-01-02 01:30:29 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-02 01:30:29 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2026-01-02 01:30:29 - clipse_gui.controller - DEBUG - Connecting signals.
+2026-01-02 01:30:29 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2026-01-02 01:30:29 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-02 01:30:29 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2026-01-02 01:30:29 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2026-01-02 01:30:29 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2026-01-02 01:30:29 - clipse_gui.app - DEBUG - Main window created and shown.
+2026-01-02 01:30:29 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-02 01:30:29 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-02 01:30:29 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2026-01-02 01:30:29 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2026-01-02 01:30:29 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2026-01-02 01:30:29 - clipse_gui.controller - DEBUG - Scheduling load more: rows 50 to 69
+2026-01-02 01:30:29 - clipse_gui.controller - DEBUG - Executing load more: rows 50 to 69
+2026-01-02 01:30:29 - clipse_gui.controller - DEBUG - Creating rows from filtered index 50 to 69
+2026-01-02 01:30:30 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2026-01-02 01:30:30 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2026-01-02 01:30:30 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2026-01-02 01:30:30 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2026-01-02 01:30:30 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2026-01-02 01:30:30 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2026-01-02 01:30:30 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-02 01:30:30 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-02 01:30:30 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-02 01:30:30 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-02 01:30:30 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-02 01:30:30 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2026-01-02 01:30:30 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2026-01-02 01:30:30 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2026-01-02 22:58:31 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-02 22:58:31 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2026-01-02 22:58:31 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2026-01-02 22:58:31 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2026-01-02 22:58:31 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-02 22:58:31 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2026-01-02 22:58:31 - clipse_gui.controller - DEBUG - Connecting signals.
+2026-01-02 22:58:31 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2026-01-02 22:58:31 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-02 22:58:31 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2026-01-02 22:58:31 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2026-01-02 22:58:31 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2026-01-02 22:58:31 - clipse_gui.app - DEBUG - Main window created and shown.
+2026-01-02 22:58:31 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-02 22:58:31 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-02 22:58:31 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2026-01-02 22:58:31 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2026-01-02 22:58:31 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2026-01-02 22:58:31 - clipse_gui.controller - DEBUG - Scheduling load more: rows 50 to 69
+2026-01-02 22:58:31 - clipse_gui.controller - DEBUG - Executing load more: rows 50 to 69
+2026-01-02 22:58:31 - clipse_gui.controller - DEBUG - Creating rows from filtered index 50 to 69
+2026-01-02 22:58:36 - clipse_gui.tray_manager - DEBUG - AppIndicator created and set to ACTIVE
+2026-01-02 22:58:36 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2026-01-02 22:58:36 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-02 22:58:56 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-02 22:58:56 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-02 22:58:56 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-02 22:58:56 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-02 22:58:56 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-02 22:58:59 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-02 22:58:59 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2026-01-02 22:58:59 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2026-01-02 22:59:02 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2026-01-02 22:59:03 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-06 22:40:51 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-06 22:40:51 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2026-01-06 22:40:51 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2026-01-06 22:40:51 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2026-01-06 22:40:51 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-06 22:40:51 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2026-01-06 22:40:51 - clipse_gui.controller - DEBUG - Connecting signals.
+2026-01-06 22:40:51 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2026-01-06 22:40:51 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-06 22:40:51 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2026-01-06 22:40:51 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2026-01-06 22:40:51 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2026-01-06 22:40:51 - clipse_gui.app - DEBUG - Main window created and shown.
+2026-01-06 22:40:51 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-06 22:40:51 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-06 22:40:51 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2026-01-06 22:40:51 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2026-01-06 22:40:51 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2026-01-06 22:40:51 - clipse_gui.controller - DEBUG - Scheduling load more: rows 50 to 69
+2026-01-06 22:40:51 - clipse_gui.controller - DEBUG - Executing load more: rows 50 to 69
+2026-01-06 22:40:51 - clipse_gui.controller - DEBUG - Creating rows from filtered index 50 to 69
+2026-01-06 22:40:54 - clipse_gui.tray_manager - DEBUG - AppIndicator created and set to ACTIVE
+2026-01-06 22:40:54 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2026-01-06 22:40:54 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-07 15:07:28 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-07 15:07:28 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-07 15:07:28 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-07 15:07:28 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-07 15:07:28 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-07 15:13:48 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-07 15:13:48 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-07 15:13:48 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-07 15:13:48 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-07 15:13:48 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-07 15:14:29 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-07 15:14:29 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-07 15:14:29 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-07 15:14:29 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-07 15:14:29 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-07 15:14:50 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-07 15:14:50 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-07 15:14:50 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-07 15:14:50 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-07 15:14:50 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-07 15:15:50 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-07 15:15:50 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-07 15:15:50 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-07 15:15:50 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-07 15:15:50 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-07 15:16:52 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-07 15:16:52 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-07 15:16:52 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-07 15:16:52 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-07 15:16:52 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-07 15:19:11 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-07 15:19:11 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-07 15:19:11 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-07 15:19:11 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-07 15:19:11 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-07 15:25:18 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-07 15:25:18 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-07 15:25:18 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-07 15:25:18 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-07 15:25:18 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-08 22:09:15 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-08 22:09:15 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2026-01-08 22:09:15 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2026-01-08 22:09:15 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2026-01-08 22:09:15 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-08 22:09:15 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2026-01-08 22:09:15 - clipse_gui.controller - DEBUG - Connecting signals.
+2026-01-08 22:09:15 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2026-01-08 22:09:15 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-08 22:09:15 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2026-01-08 22:09:15 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2026-01-08 22:09:15 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2026-01-08 22:09:15 - clipse_gui.app - DEBUG - Main window created and shown.
+2026-01-08 22:09:15 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-08 22:09:15 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-08 22:09:15 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2026-01-08 22:09:15 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2026-01-08 22:09:15 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2026-01-08 22:09:18 - clipse_gui.tray_manager - DEBUG - AppIndicator created and set to ACTIVE
+2026-01-08 22:09:18 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2026-01-08 22:09:18 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-08 22:09:24 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-08 22:09:24 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-08 22:09:24 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-08 22:09:24 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-08 22:09:24 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-08 22:18:57 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-08 22:18:57 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-08 22:18:57 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-08 22:18:57 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-08 22:18:57 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-08 22:28:44 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-08 22:28:44 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-08 22:28:44 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-08 22:28:44 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-08 22:28:44 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-08 22:31:52 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-08 22:31:52 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-08 22:31:52 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-08 22:31:52 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-08 22:31:52 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-08 23:04:31 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-08 23:04:31 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-08 23:04:31 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-08 23:04:31 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-08 23:04:31 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-08 23:05:53 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-08 23:05:53 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-08 23:05:53 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-08 23:05:53 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-08 23:05:53 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-09 20:11:10 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-09 20:11:10 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2026-01-09 20:11:10 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2026-01-09 20:11:10 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2026-01-09 20:11:10 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-09 20:11:10 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2026-01-09 20:11:10 - clipse_gui.controller - DEBUG - Connecting signals.
+2026-01-09 20:11:10 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2026-01-09 20:11:10 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-09 20:11:10 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2026-01-09 20:11:10 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2026-01-09 20:11:10 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2026-01-09 20:11:10 - clipse_gui.app - DEBUG - Main window created and shown.
+2026-01-09 20:11:10 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-09 20:11:10 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-09 20:11:10 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2026-01-09 20:11:10 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2026-01-09 20:11:10 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2026-01-09 20:11:14 - clipse_gui.tray_manager - DEBUG - AppIndicator created and set to ACTIVE
+2026-01-09 20:11:14 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2026-01-09 20:11:15 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-09 20:11:49 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-09 20:11:49 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2026-01-09 20:11:49 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2026-01-09 20:11:52 - clipse_gui.controller - DEBUG - Pin filter toggled: ON
+2026-01-09 20:11:52 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2026-01-09 20:11:52 - clipse_gui.controller - DEBUG - Pin filter toggled: OFF
+2026-01-09 20:11:52 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-09 20:11:52 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-09 20:11:58 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2026-01-09 20:11:58 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-09 20:12:02 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-09 20:12:02 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-09 20:12:02 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-09 20:12:02 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-09 20:12:02 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29

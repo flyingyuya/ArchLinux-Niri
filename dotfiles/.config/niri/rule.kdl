@@ -1,0 +1,149 @@
+// Window rules let you adjust behavior for individual windows.
+// Find more information on the wiki:
+// https://yalter.github.io/niri/Configuration:-Window-Rules
+
+// Example: enable rounded corners for all windows.
+// (This example rule is commented out with a "/-" in front.)
+// 全局窗口规则
+window-rule {
+    geometry-corner-radius 12 // 圆角
+    clip-to-geometry true // 剪掉圆角外的窗口内容
+    opacity 0.97  // 透明度
+    draw-border-with-background false // 禁止边框画到窗口后面
+}
+
+// 放进 overview 里的壁纸程序
+layer-rule{
+    //match namespace="hyprpaper"
+    //match namespace="wallpaper"
+    match namespace="awww-daemonoverview"
+    place-within-backdrop true
+}
+/-layer-rule{
+    match namespace="awww-daemonoverview"
+    baba-is-float true
+}
+
+// Open the Firefox picture-in-picture player as floating by default.
+// 以浮动模式打开
+window-rule {
+    // This app-id regular expression will work for both:
+    // - host Firefox (app-id is "firefox")
+    // - Flatpak Firefox (app-id is "org.mozilla.firefox")
+    match app-id=r#"firefox$"# title="^Picture-in-Picture$"
+    match app-id="waypaper"
+    match app-id="clipse-gui"
+    match app-id="pot"
+    match app-id="flameshot"
+    match app-id="btrfs-assistant"
+    match app-id="org.gnome.FileRoller"
+    match app-id="be.alexandervanhee.gradia"
+    match app-id="steam" title="Friends List"
+    match app-id="blueberry.py" title="蓝牙"
+    match app-id="org.pulseaudio.pavucontrol" title="音量控制"
+    match app-id="org.gnome.clocks" title="时钟"
+    match app-id="fcitx" title="Fcitx5 Input Window"
+    match app-id="thunar" title="文件操作进度"
+    match app-id="kitty" title="sh"
+    match title="群聊的聊天记录"
+    match title="聊天记录"
+    match title="日历"
+    match title="重命名"
+    
+    open-floating true
+}
+
+// applauncher 窗口表面上下浮动
+layer-rule{
+    match namespace="^launcher$"
+    baba-is-float true
+}
+
+// 以浮动模式打开imv（一个轻量化图片预览程序）且不自动聚焦
+window-rule {
+    match app-id="imv"
+    open-focused false
+    open-floating true
+}
+// steam好友列表宽度
+window-rule {
+    match title="好友列表"
+    max-width 450
+}
+// 取消打开自动聚焦
+window-rule {
+    match app-id="wechat"
+    open-focused false
+}
+
+// waydroid调整
+window-rule {
+    match title="gsr ui"
+    match app-id="waydroid"
+    open-fullscreen true
+    open-floating true
+    focus-ring{
+        off
+    }
+    shadow {
+        off
+    }
+}
+
+// 取消图片预览、视频播放器之类的透明度，并且以浮动模式打开
+window-rule {
+    match title="图片查看器"
+    match title="画中画"
+    match title="图片和视频"
+    match title="视频播放器"
+    open-floating true
+    opacity 1.0
+}
+window-rule {
+    match app-id="mpv"
+    match app-id="celluloid"
+    opacity 1.0
+}
+
+// zotero
+window-rule {
+    match title="Zotero 设置"
+    match title="插件市场"
+    match title="高级搜索"
+    match title="进度"
+    match title="导入"
+    match title="Addon Preference Manager"
+    match title="Plugins Manager"
+    open-floating true
+    opacity 1.0
+}
+
+/-window-rule {
+	match title="Music Free"
+	open-floating true
+	draw-border-with-background false
+	geometry-corner-radius 0
+}
+
+// Work around WezTerm's initial configure bug
+// by setting an empty default-column-width.
+window-rule {
+    // This regular expression is intentionally made as specific as possible,
+    // since this is the default config, and we want no false positives.
+    // You can get away with just app-id="wezterm" if you want.
+    match app-id=r#"^org\.wezfurlong\.wezterm$"#
+    default-column-width {}
+}
+
+// Example: block out two password managers from screen capture.
+// (This example rule is commented out with a "/-" in front.)
+/-window-rule {
+    match app-id=r#"^org\.keepassxc\.KeePassXC$"#
+    match app-id=r#"^org\.gnome\.World\.Secrets$"#
+
+    block-out-from "screen-capture"
+
+    // Use this instead if you want them visible on third-party screenshot tools.
+    // block-out-from "screencast"
+}
+
