@@ -346,14 +346,14 @@ spawn-sh-at-startup "dbus-update-activation-environment --systemd DISPLAY WAYLAN
 spawn-sh-at-startup "dbus-update-activation-environment --systemd --all & /usr/lib/xdg-desktop-portal-gtk" // 屏幕分享、录屏相关的环境设置
 spawn-at-startup "/usr/lib/polkit-kde-authentication-agent-1"	// 询问管理员权限功能（身份验证）
 spawn-sh-at-startup "gnome-keyring-daemon --start --components=secrets"  // gnome 密钥管理服务
-spawn-at-startup "waybar" // 任务栏
+spawn-at-startup "waybar -c $HOME/.config/waybar-niri-Win11Like/config.jsonc -s $HOME/.config/waybar-niri-Win11Like/style.css" // 任务栏
 spawn-at-startup "mako" // 通知程序
 spawn-at-startup "fcitx5 -d"  // 输入法
 spawn-at-startup "/home/flyingyu/.config/niri/scripts/swayidle.sh" // 闲置时自动熄屏锁屏休眠的脚本
 spawn-sh-at-startup "clipse --listen" // 剪贴板守护进程
 spawn-at-startup "swayosd-server" // 大写锁定键的 osd 显示
 
-spawn-at-startup "clash-verge-service" // clash 代理服务
+spawn-at-startup "clash-verge" // clash 代理服务
 
 spawn-at-startup "awww-daemon"  // 桌面壁纸的守护进程
 spawn-sh-at-startup "awww-daemon -n overview" // 总览界面背景壁纸的守护进程

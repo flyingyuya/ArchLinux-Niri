@@ -15,8 +15,8 @@ binds {
 
     // 我的自定义快捷键
     Mod+F1 hotkey-overlay-title="Toggle fcitx5" {spawn-sh "pkill fcitx5 || fcitx5";}
-	Mod+F2 hotkey-overlay-title="Top taskbar"  {spawn-sh "pkill waybar & pkill cava || true &&  waybar -c $HOME/.config/waybar/config.jsonc -s $HOME/.config/waybar/style.css ";}
-    Mod+F3  hotkey-overlay-title="Bottom taskbar" {spawn-sh "pkill waybar & pkill cava || true &&  waybar -c $HOME/.config/waybar-niri-Win11Like/config.jsonc -s $HOME/.config/waybar-niri-Win11Like/style.css ";}
+	Mod+F2 hotkey-overlay-title="standard taskbar"  {spawn-sh "pkill waybar & pkill cava || true &&  waybar -c $HOME/.config/waybar/config.jsonc -s $HOME/.config/waybar/style.css";}
+    Mod+F3  hotkey-overlay-title="like Win11 taskbar" {spawn-sh "pkill waybar & pkill cava || true && waybar -c $HOME/.config/waybar-niri-Win11Like/config.jsonc -s $HOME/.config/waybar-niri-Win11Like/style.css";}
     Mod+F4 hotkey-overlay-title="toggle bar" {spawn-sh "pkill waybar && pkill cava || waybar";} // 这一行是关闭waybar进程，释放资源占用。在意资源占用的时候使用。
     Mod+F10 hotkey-overlay-title="Random change wallpaper" {spawn "waypaper" "--random";}
     Mod+E hotkey-overlay-title="Open the thunar" { spawn-sh "thunar || env GSK_RENDERER=gl GTK_IM_MODULE=fcitx  nautilus";}

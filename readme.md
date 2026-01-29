@@ -2,6 +2,8 @@
 
 这是一个旨在分享个人在ArchLinux上使用Niri窗口管理器的系统配置和美化方案的项目（基于[该博主](https://space.bilibili.com/9202840)进行的二次创作）。
 
+![界面概览](/images/Screenshot-2026-01-30.png)
+
 ## 项目介绍
 
 此项目包含了我在ArchLinux物理机环境中为Niri合成器及其生态系统精心配置的各种点文件（dotfiles）。它旨在提供一个功能齐全、视觉统一且高度优化的桌面体验。

@@ -61,6 +61,7 @@
         "battery",
         "custom/left_div#5",
         "custom/mako",
-        "group/powermenu"
+        //"group/powermenu"
+        "custom/wlogout"
     ]
 }

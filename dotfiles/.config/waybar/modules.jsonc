@@ -5,7 +5,7 @@
     "states": {
       "critical": 20,
     },
-    "format": "{icon}{capacity}%",
+    "format": "{icon} {capacity}%",
     "format-charging": "󰂄{capacity}%",
     "format-icons": ["󰂎", "󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂂", "󰁹"],
     "tooltip-format": "󰂍 {power} | {timeTo}",
@@ -13,7 +13,7 @@
   //时钟
   "clock": {
     "interval": 60,
-    "format": "󰥔{:%H:%M}",
+    "format": "󰥔 {:%H:%M}",
     "tooltip-format": "{:%Y/%m/%d %A}",
     "max-length": 25,
     "on-click": "gnome-clocks",
@@ -118,7 +118,7 @@
   //左键循环切换性能模式
   "power-profiles-daemon": {
     "format": "{icon}",
-    "tooltip-format": "Performance mode:{profile}",
+    "tooltip-format": "Performance mode: {profile}",
     "tooltip": true,
     "format-icons": {
       "performance": "󱐋",
@@ -156,9 +156,9 @@
   },
   "pulseaudio": {
     "tooltip-format": "Click to Mute | Right-Click to Mute Mic | Mid-Click to Open Pavucontrol",
-    "format": "{icon}{volume}% {format_source} ",
+    "format": "{icon} {volume}% {format_source} ",
     "format-bluetooth": " {format_source} ",
-    "format-source": "{volume}%",
+    "format-source": " {volume}%",
     "format-source-muted": "",
     "format-muted": " {format_source} ",
     "format-icons": {
@@ -216,6 +216,8 @@
     "tooltip": false,
     "format": "󰐥",
     "on-click": "wlogout",
+    "on-scroll-up": "true",
+    "on-scroll-down": "true"
   },
   "custom/lockscreen": {
     "tooltip": false,
@@ -241,7 +243,7 @@
   "backlight": {
     "tooltip-format": "Adjust brightness of inner-screen",
     //"tooltip": false,
-    "format": "{icon}{percent}%",
+    "format": "{icon} {percent}%",
     "format-icons": ["", "", "", "", "", "", "", "", ""],
   },
   //调节外接屏幕亮度
@@ -303,6 +305,7 @@
     "escape": true,
   },
   "custom/mako": {
+    "tooltip-format": "Click to restore messages",
     "format": "",
     "on-click": "makoctl restore",
   },
@@ -403,13 +406,13 @@
   // CPU 监控
   "cpu": {
     "interval": 5,
-    "format": "{usage}%",
+    "format": " {usage}%",
     "on-click": "kitty -e btop" // 点击打开 btop 监控
   },
   // 内存监控
   "memory": {
     "interval": 5,
-    "format": "{used:0.1f}G", // 显示已用内存
+    "format": " {used:0.1f}G", // 显示已用内存
     "tooltip-format": "used: {used}GiB\nfree: {avail}GiB\ntotal: {total}GiB\nswap used: {swapUsed}GiB",
     "on-click": "kitty -e btop"
   },

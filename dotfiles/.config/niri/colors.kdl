@@ -4,7 +4,7 @@
 layout {
     focus-ring {
         // 使用 primary 和 tertiary 两个色调生成渐变，末尾加上 cc 代表 80% 透明度
-        active-gradient from="#dcc66ecc" to="#aad0b3cc" angle=135
+        active-gradient from="#cbbeffcc" to="#eeb8cbcc" angle=135
         
         // 紧急颜色通常使用 error 变量
         urgent-color "#ffb4ab"
@@ -14,7 +14,7 @@ layout {
 recent-windows {    
     highlight {
         // 这里的背景可以使用 surface 变体
-        active-color "#2d2a21"
+        active-color "#2b292f"
         urgent-color "#ffb4ab"
     }
 }

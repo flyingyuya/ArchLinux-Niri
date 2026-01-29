@@ -107,22 +107,22 @@ window-rule {
 
 // zotero
 window-rule {
-    match title="Zotero 设置"
+    match title="设置$"
+    match title="配置$"
     match title="插件市场"
     match title="高级搜索"
     match title="进度"
     match title="导入"
-    match title="Addon Preference Manager"
-    match title="Plugins Manager"
+    match title="Manager$"
     open-floating true
     opacity 1.0
 }
 
-/-window-rule {
-	match title="Music Free"
+// MusicFree
+window-rule {
+	match app-id="MusicFree" title="Free$"
 	open-floating true
-	draw-border-with-background false
-	geometry-corner-radius 0
+	opacity 0.1
 }
 
 // Work around WezTerm's initial configure bug

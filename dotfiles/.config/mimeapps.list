@@ -9,11 +9,25 @@ video/x-matroska=mpv.desktop
 video/avi=mpv.desktop
 video/quicktime=mpv.desktop
 application/vnd.microsoft.portable-executable=wine.desktop
+x-scheme-handler/clash=clash-verge.desktop;
+x-scheme-handler/clash-verge=clash-verge.desktop;
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+x-scheme-handler/zy=zyfun.desktop
+x-scheme-handler/bilipc=bilibili.desktop
 
 [Added Associations]
 image/png=imv.desktop;
 video/webm=mpv.desktop;
 video/mp4=mpv.desktop;
 application/vnd.microsoft.portable-executable=wine.desktop;
-application/x-shellscript=vim.desktop;
-text/plain=org.lite_xl.lite_xl.desktop;
+application/x-shellscript=org.xfce.mousepad.desktop;vim.desktop;
+text/plain=org.xfce.mousepad.desktop;vim.desktop;org.lite_xl.lite_xl.desktop;zotero.desktop;
+application/x-desktop=org.xfce.mousepad.desktop;org.lite_xl.lite_xl.desktop;
+text/x-csrc=org.xfce.mousepad.desktop;
+x-scheme-handler/clash=clash-verge.desktop;
+x-scheme-handler/clash-verge=clash-verge.desktop;
+application/pdf=wps-office-pdf.desktop;

@@ -8,7 +8,7 @@
 * {
     border: none;
     border-radius: 0;
-    font-family: "JetBrainsMono Nerd Font Propo","JetBrains Maple Mono";
+    font-family: "JetBrains Maple Mono","JetBrainsMono Nerd Font";
     /* font-family:"0xProto Nerd Font Propo"; */
     font-size: 16.6px; /* 基准大小 */
     opacity: 1;
@@ -23,19 +23,20 @@ window#waybar {
 tooltip {
     background: @secondary_container;
     border: 0.17em solid @outline; /* 3px */
+    border-radius: 5;
     opacity: 1;
 }
 
 tooltip label {
     color: @on_surface;
     font-size: 0.89em; /* 16px */
-    font-family: "JetBrainsMono Nerd Font";
 }
 
 
 /* 工作区 */
 #workspaces button {
-    padding: 0px 0.56em; /* 10px */
+	all: unset;
+    padding: 0px 0.89em 0px 0.56em; /* 16px 10px */
     background: @surface;
     color: @tertiary_container;
 }
@@ -150,11 +151,11 @@ window#waybar.empty #window {
     font-size: 1.25em; /* 20px */
 }
 #bluetooth.disabled{
-    padding: 0px 0.22em 0px 0.46em ;
+    padding: 0px 0px 0px 0.39em ;
 }
 
 #network {
-    padding: 0px 0.34em; /* 7px */
+    padding: 0px 0.56em 0px 0.39em; /* 10px 7px */
     font-size: 1.2em; /* 22px */
 }
 
@@ -164,7 +165,7 @@ window#waybar.empty #window {
 }
 
 #custom-screenshot {
-    padding: 0 0.4em; /* 7px */
+    padding: 0px 0.73em 0px 0.39em; /* 13px 7px */
     font-size: 1.28em; /* 22px */
 }
 
@@ -207,11 +208,15 @@ window#waybar.empty #window {
     color: @on_tertiary;
     padding: 0px 0.36em; /* 6px */
 }
-#idle_inhibitor.activated{
-    padding: 0px 0.4em 0px 0.4em;
+#idle_inhibitor{
+    padding: 0px 0.56em 0px 0.36em;
 }
+#idle_inhibitor.activated{
+    padding: 0px 0.56em 0px 0.36em;
+}
+
 #power-profiles-daemon{
-    padding: 0px 0.4em 0em 0.36em;
+    padding: 0px 0.36em 0em 0.36em;
 }
 #power-profiles-daemon.performance {
     color: @on_error;
@@ -232,7 +237,7 @@ window#waybar.empty #window {
 #custom-gpu {
     background-color: @tertiary;
     color: @on_tertiary;
-    padding: 0px 0.39em;
+    padding: 0px 0.73em 0px 0.39em;
 }
 /* 当处于 NVIDIA 模式时，改变颜色作为状态提醒 */
 #custom-gpu.nvidia {
@@ -247,7 +252,7 @@ window#waybar.empty #window {
 }
 #custom-applauncher {
     font-size: 1.39em; /* 25px */
-    padding: 0px 0.39em; /* 7px */
+    padding: 0px 0.56em 0px 0.39em; /* 10px 7px */
     margin: 0px;
     background-color: @primary;
     color: @on_primary;
@@ -329,7 +334,7 @@ window#waybar.empty #window {
 
 #custom-updates {
     border-radius: 0px;
-    padding: 0px 0.17em 0px 0.39em; /* 3px 7px */
+    padding: 0px 0.56em 0px 0.39em; /* 10px 7px */
     background-color: @surface_bright;
     color: @error;
 

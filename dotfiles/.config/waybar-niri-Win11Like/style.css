@@ -10,14 +10,15 @@
 * {
     border: none;
     border-radius: 5px;
-    font-family: "JetBrainsMono NFP", "JetBrains Maple Mono";
+    font-family: "JetBrains Maple Mono", "JetBrainsMono NF";
     font-size: 17px; /* 1em（基准） */
     min-height: 0;
 }
 
 window#waybar {
     border-radius: 0px;
-    background: @surface;
+    /*background: @surface;*/
+    background: transparent;
     color: @on_surface;
 }
 
@@ -39,7 +40,9 @@ tooltip label {
 }
 
 #workspaces button {
-    padding: 0px 10px;
+	all: unset;
+    /*padding: 0px 10px;*/
+    padding: 0px 15px 0px 10px;
     color: @tertiary_container;
 }
 
@@ -64,14 +67,14 @@ tooltip label {
 }
 
 #custom-cava {
-    padding: 0px 5px 0px 10px;
-    margin: 5px 0px 5px 5px;
-    border-radius: 5px 0px 0px 5px;
+    padding: 0px 5px 0px 5px;
+    margin: 5px 5px 5px 5px;
+    border-radius: 5px 5px 5px 5px;
 }
 #mpris {
     padding: 0px 10px;
     margin: 5px 0px 5px 0px;
-    border-radius: 0px 5px 5px 0px;
+    border-radius: 5px 5px 5px 5px;
 }
 
 #custom-screenshot,
@@ -95,7 +98,7 @@ tooltip label {
 
 #custom-screenshot {
     padding: 0px 5px 0px 10px;
-    margin: 5px 0px 5px 10px;
+    margin: 5px 0px 5px 5px;
     border-radius: 5px 0px 0px 5px;
 }
 
@@ -104,7 +107,7 @@ tooltip label {
 }
 
 #custom-colorpicker {
-    padding: 0px 10px 0px 5px;
+    padding: 0px 15px 0px 5px;
     margin: 5px 5px 5px 0px;
     border-radius: 0px 5px 5px 0px;
 }
@@ -125,7 +128,7 @@ window#waybar.empty #window {
 }
 
 #cpu {
-    padding: 0px 5px 0px 5px;
+    padding: 0px 5px 0px 10px;
     margin: 5px 0px 5px 5px;
     border-radius: 5px 0px 0px 5px;
     background-color: @surface_container_high;
@@ -142,7 +145,7 @@ window#waybar.empty #window {
 
 #custom-applauncher {
     font-size: 1.39em; /* 原 25px */
-    padding: 0px 11px;
+    padding: 0px 18px 0px 12px;
     margin: 5px;
     background-color: @primary;
     color: @on_primary;
@@ -187,7 +190,7 @@ window#waybar.empty #window {
 }
 
 #custom-updates {
-    padding: 0px 10px;
+    padding: 0px 15px 0px 8px;
     margin: 5px;
     background-color: @surface_container_high;
     color: @error;
@@ -199,7 +202,7 @@ window#waybar.empty #window {
     margin: 5px;
 }
 #custom-tray-icon{
-    padding: 0px 3px;
+    padding: 0px 3px 0px 0px;
     background-color: @surface_container_high;
     margin: 5px;
     color: @secondary;
@@ -242,8 +245,8 @@ window#waybar.empty #window {
 
 
 #backlight {
-    font-size: 1.22em; /* 原 22px */
-    padding: 0px 5px 0px 5px;
+    /*font-size: 1.22em; 原 22px */
+    padding: 0px 10px 0px 10px;
     margin: 5px;
     border-radius: 5px;
 }
@@ -335,17 +338,14 @@ window#waybar.empty #window {
 }
 #network {
     padding: 0px 10px 0px 5px;
-    margin: 5px 5px 5px 0px;
-    border-radius: 0px 5px 5px 0px;
+    margin: 5px 0px 5px 0px;
+    border-radius: 0px 0px 0px 0px;
 }
 
-#custom-mako {
-
-}
 #custom-mako {
     background-color: @surface_container_high;
-    color: @tertiary;
-    padding: 0px 5px 0px 5px;
+    color: @secondary;
+    padding: 0px 13px 0px 10px;
     margin: 5px 5px 5px 5px;
     border-radius: 5px 5px 5px 5px;
 }
@@ -360,17 +360,17 @@ window#waybar.empty #window {
     font-size:1.1em;
 }
 #idle_inhibitor {
-    padding: 0px 5px 0px 10px;
+    padding: 0px 10px 0px 10px;
     margin: 5px 0px 5px 5px;
     border-radius: 5px 0px 0px 5px;
     color: @tertiary;
 }
 #idle_inhibitor.activated{
-    padding: 0px 6px 0px 11px;
+    padding: 0px 10px 0px 10px;
 }
 
 #power-profiles-daemon {
-    padding: 0px 8px 0px 5px;
+    padding: 0px 10px 0px 5px;
     margin: 5px 0px 5px 0px;
     border-radius: 0px 0px 0px 0px;
     color: @tertiary;
@@ -394,9 +394,9 @@ window#waybar.empty #window {
 #custom-gpu {
     background-color: @surface_container_high;
     color: @tertiary;
-    margin: 5px 0px 5px 0px;
-    border-radius: 0px 0px 0px 0px;
-    padding: 0px 5px 0px 0px;
+    margin: 5px 5px 5px 0px;
+    border-radius: 0px 5px 5px 0px;
+    padding: 0px 15px 0px 5px;
 }
 /* 当处于 NVIDIA 模式时，改变颜色作为状态提醒 */
 #custom-gpu.nvidia {
