@@ -3818,3 +3818,170 @@
 2026-01-29 22:13:35 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
 2026-01-29 22:13:35 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
 2026-01-29 22:13:35 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2026-01-31 15:09:50 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-31 15:09:50 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2026-01-31 15:09:50 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2026-01-31 15:09:50 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2026-01-31 15:09:50 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-31 15:09:50 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2026-01-31 15:09:50 - clipse_gui.controller - DEBUG - Connecting signals.
+2026-01-31 15:09:50 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2026-01-31 15:09:50 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-31 15:09:50 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2026-01-31 15:09:50 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2026-01-31 15:09:50 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2026-01-31 15:09:50 - clipse_gui.app - DEBUG - Main window created and shown.
+2026-01-31 15:09:50 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-31 15:09:50 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-31 15:09:50 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2026-01-31 15:09:50 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2026-01-31 15:09:50 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2026-01-31 15:09:55 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2026-01-31 15:09:55 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2026-01-31 15:09:55 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2026-01-31 15:09:55 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2026-01-31 15:09:55 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2026-01-31 15:09:55 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2026-01-31 15:09:55 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2026-01-31 15:09:55 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2026-01-31 15:09:55 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2026-01-31 15:11:52 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-31 15:11:52 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2026-01-31 15:11:52 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2026-01-31 15:11:52 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2026-01-31 15:11:52 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-31 15:11:52 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2026-01-31 15:11:52 - clipse_gui.controller - DEBUG - Connecting signals.
+2026-01-31 15:11:52 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2026-01-31 15:11:52 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-31 15:11:52 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2026-01-31 15:11:52 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2026-01-31 15:11:52 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2026-01-31 15:11:52 - clipse_gui.app - DEBUG - Main window created and shown.
+2026-01-31 15:11:52 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-31 15:11:52 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-31 15:11:52 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2026-01-31 15:11:52 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2026-01-31 15:11:52 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2026-01-31 15:11:57 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2026-01-31 15:11:57 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2026-01-31 15:11:57 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2026-01-31 15:11:57 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2026-01-31 15:11:57 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2026-01-31 15:11:57 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2026-01-31 15:11:57 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2026-01-31 15:11:57 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2026-01-31 15:11:57 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2026-01-31 15:17:00 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-31 15:17:00 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2026-01-31 15:17:00 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2026-01-31 15:17:00 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2026-01-31 15:17:00 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-31 15:17:00 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2026-01-31 15:17:00 - clipse_gui.controller - DEBUG - Connecting signals.
+2026-01-31 15:17:00 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2026-01-31 15:17:00 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-31 15:17:00 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2026-01-31 15:17:00 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2026-01-31 15:17:00 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2026-01-31 15:17:00 - clipse_gui.app - DEBUG - Main window created and shown.
+2026-01-31 15:17:00 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-31 15:17:00 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-31 15:17:00 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2026-01-31 15:17:00 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2026-01-31 15:17:00 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2026-01-31 15:17:01 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2026-01-31 15:17:01 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2026-01-31 15:17:01 - clipse_gui.data_manager - DEBUG - History file change detected (/home/flyingyu/.config/clipse/clipboard_history.json). Reloading...
+2026-01-31 15:17:01 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-31 15:17:01 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2026-01-31 15:17:01 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-31 15:17:01 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-31 15:17:01 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2026-01-31 15:17:01 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2026-01-31 15:17:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2026-01-31 15:17:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2026-01-31 15:17:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2026-01-31 15:17:01 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2026-01-31 15:17:01 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2026-01-31 15:17:30 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-31 15:17:30 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2026-01-31 15:17:30 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2026-01-31 15:17:30 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2026-01-31 15:17:30 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-31 15:17:30 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2026-01-31 15:17:30 - clipse_gui.controller - DEBUG - Connecting signals.
+2026-01-31 15:17:30 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2026-01-31 15:17:30 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-31 15:17:30 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2026-01-31 15:17:30 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2026-01-31 15:17:30 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2026-01-31 15:17:30 - clipse_gui.app - DEBUG - Main window created and shown.
+2026-01-31 15:17:30 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-31 15:17:30 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-31 15:17:30 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2026-01-31 15:17:30 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2026-01-31 15:17:30 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2026-01-31 15:17:31 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2026-01-31 15:17:31 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2026-01-31 15:17:31 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2026-01-31 15:17:31 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2026-01-31 15:17:31 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2026-01-31 15:17:31 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2026-01-31 15:17:31 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2026-01-31 15:17:31 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2026-01-31 15:17:31 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2026-01-31 20:21:32 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-31 20:21:33 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2026-01-31 20:21:33 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2026-01-31 20:21:33 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2026-01-31 20:21:33 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-31 20:21:33 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2026-01-31 20:21:33 - clipse_gui.controller - DEBUG - Connecting signals.
+2026-01-31 20:21:33 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2026-01-31 20:21:33 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2026-01-31 20:21:33 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-31 20:21:33 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2026-01-31 20:21:33 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2026-01-31 20:21:33 - clipse_gui.app - DEBUG - Main window created and shown.
+2026-01-31 20:21:33 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-31 20:21:33 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-31 20:21:33 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2026-01-31 20:21:33 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2026-01-31 20:21:33 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2026-01-31 20:21:36 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2026-01-31 20:21:36 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2026-01-31 20:21:36 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2026-01-31 20:21:36 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2026-01-31 20:21:36 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2026-01-31 20:21:36 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2026-01-31 20:21:36 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2026-01-31 20:21:36 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2026-01-31 20:21:36 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2026-01-31 21:09:38 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/flyingyu/.config/clipse-gui/clipse-gui.log
+2026-01-31 21:09:39 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2026-01-31 21:09:39 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2026-01-31 21:09:39 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2026-01-31 21:09:39 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-31 21:09:39 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2026-01-31 21:09:39 - clipse_gui.controller - DEBUG - Connecting signals.
+2026-01-31 21:09:39 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2026-01-31 21:09:39 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2026-01-31 21:09:39 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/flyingyu/.config/clipse/clipboard_history.json
+2026-01-31 21:09:39 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2026-01-31 21:09:39 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/flyingyu/.config/clipse/clipboard_history.json every 300ms
+2026-01-31 21:09:39 - clipse_gui.app - DEBUG - Main window created and shown.
+2026-01-31 21:09:39 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2026-01-31 21:09:39 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2026-01-31 21:09:39 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2026-01-31 21:09:39 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2026-01-31 21:09:39 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2026-01-31 21:09:40 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2026-01-31 21:09:40 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2026-01-31 21:09:40 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2026-01-31 21:09:40 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2026-01-31 21:09:40 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2026-01-31 21:09:40 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2026-01-31 21:09:40 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2026-01-31 21:09:40 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2026-01-31 21:09:40 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.

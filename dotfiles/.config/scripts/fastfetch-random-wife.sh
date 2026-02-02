@@ -10,7 +10,7 @@ LOCK_FILE="/tmp/fastfetch_waifu.lock"
 
 # [修改点 1 & 3] 设置为环境变量，方便调节
 DOWNLOAD_BATCH_SIZE=5   # 每次补货下载多少张
-MAX_CACHE_LIMIT=30      # 最大库存上限
+MAX_CACHE_LIMIT=20      # 最大库存上限
 MIN_TRIGGER_LIMIT=10     # 库存少于多少张时开始补货
 
 mkdir -p "$CACHE_DIR"

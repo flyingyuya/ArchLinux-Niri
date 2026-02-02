@@ -16,8 +16,8 @@
     "format": "󰥔 {:%H:%M}",
     "tooltip-format": "{:%Y/%m/%d %A}",
     "max-length": 25,
-    "on-click": "gnome-clocks",
-    "on-click-right": "gnome-calendar",
+    //"on-click": "gnome-clocks",
+    //"on-click-right": "gnome-calendar",
   },
   "clock#date": {
     // "interval":
@@ -317,9 +317,10 @@
   },
   //获取屏幕颜色colorpicker
   "custom/colorpicker": {
-    "tooltip": false,
+    "tooltip": true,
     "format": "󱏜",
     "on-click": "hyprpicker | wl-copy",
+    "tooltip-format":"左键：提取颜色",
   },
   //音频可视化
   "custom/cava": {
@@ -336,6 +337,7 @@
     },
     "tooltip-format-activated": "idle Enabled",
     "tooltip-format-deactivated": "idle Disabled",
+    "on-click-right": "~/.config/scripts/matugen-select-type.sh"
   },
   //分隔符󰇝 󱋱
   "custom/separator#1": {
@@ -350,9 +352,9 @@
       "has-updates": "",
       "updated": "",
     },
-    "exec-if": "which waybar-module-pacman-updates",
-    "exec": "waybar-module-pacman-updates --no-zero-output",
-    "on-click": "kitty -e yay",
+    "exec": "~/.config/waybar/scripts/check-updates.sh",
+    "interval": 3600, 
+    "on-click": "kitty -e sysup",
   },
   //隐私
   "privacy": {

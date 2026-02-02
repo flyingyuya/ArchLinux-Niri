@@ -6,10 +6,8 @@ if status is-interactive
 	starship init fish | source
 end
 
-set -gx http_proxy "http://127.0.0.1:7897"
-set -gx https_proxy "http://127.0.0.1:7897"
-set -gx all_proxy "socks5://127.0.0.1:7897"
-set -gx no_proxy "localhost,127.0.0.1,localaddress,.localdomain.com"
+set -gx http_proxy "http://127.0.0.1:7890"
+set -gx https_proxy "http://127.0.0.1:7890"
 
 # 激活 pipx 和 uv 环境
 fish_add_path "$HOME/.local/bin"

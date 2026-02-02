@@ -17,11 +17,12 @@
   <property name="tree-icon-emblems" type="bool" value="true"/>
   <property name="misc-symbolic-icons-in-sidepane" type="bool" value="false"/>
   <property name="misc-image-preview-mode" type="string" value="THUNAR_IMAGE_PREVIEW_MODE_EMBEDDED"/>
-  <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_38_PERCENT"/>
-  <property name="last-details-view-column-widths" type="string" value="50,50,141,141,141,1057,50,50,200,50,50,65,50,459"/>
+  <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_50_PERCENT"/>
+  <property name="last-details-view-column-widths" type="string" value="50,50,141,78,141,54,50,50,352,50,50,73,50,495"/>
   <property name="misc-show-delete-action" type="bool" value="false"/>
   <property name="misc-full-path-in-tab-title" type="bool" value="false"/>
   <property name="misc-date-style" type="string" value="THUNAR_DATE_STYLE_YYYYMMDD"/>
   <property name="last-sort-column" type="string" value="THUNAR_COLUMN_NAME"/>
   <property name="last-sort-order" type="string" value="GTK_SORT_ASCENDING"/>
+  <property name="misc-expandable-folders" type="bool" value="false"/>
 </channel>

@@ -35,8 +35,8 @@ setopt APPEND_HISTORY
 setopt EXTENDED_HISTORY
 
 # 代理
-export http_proxy="http://127.0.0.1:7897"
-export https_proxy="http://127.0.0.1:7897"
+#export http_proxy="http://127.0.0.1:7890"
+#export https_proxy="http://127.0.0.1:7890"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!

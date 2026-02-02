@@ -38,6 +38,7 @@ window-rule {
     match app-id="btrfs-assistant"
     match app-id="org.gnome.FileRoller"
     match app-id="be.alexandervanhee.gradia"
+    match app-id="niri-quick-switch-menu"
     match app-id="steam" title="Friends List"
     match app-id="blueberry.py" title="蓝牙"
     match app-id="org.pulseaudio.pavucontrol" title="音量控制"
@@ -119,7 +120,7 @@ window-rule {
 }
 
 // MusicFree
-window-rule {
+/-window-rule {
 	match app-id="MusicFree" title="Free$"
 	open-floating true
 	opacity 0.1

@@ -1,0 +1,16 @@
+set selection-clipboard clipboard
+
+# 反色模式配置
+set recolor "true"
+set recolor-lightcolor "#E0EACC" # 背景色（青菜绿）
+set recolor-darkcolor "#010203"  # 文字颜色（黑木炭）
+set recolor-keephue "true"
+
+# 索引界面设置
+set index-bg           "#282828" # 深灰背景
+set index-fg           "#B8E0B8" # 米青色
+set index-active-bg    "#A7C080" # 选中项：明亮的青草绿
+set index-active-fg    "#1E2326" # 选中项文字：深色
+
+set font "monospace bold 12" # 设置字体大小
+set index-follow "true" # 索引跟随
