@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Chatbox
+Comment=A desktop client for multiple cutting-edge AI models
+Icon=/home/flyingyu/AppImages/.icons/chatbox.png
+TryExec=/home/flyingyu/AppImages/chatbox.appimage
+Exec=env GTK_IM_MODULE=fcitx QT_IM_MODULE=fcitx DESKTOPINTEGRATION=1 /home/flyingyu/AppImages/chatbox.appimage --no-sandbox %U
+Terminal=false
+Categories=Development;
+StartupWMClass=Chatbox
+X-AppImage-Version=1.18.4

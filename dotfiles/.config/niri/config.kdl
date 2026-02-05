@@ -11,7 +11,11 @@ include "colors.kdl"
 // 环境变量
 environment {
     // 设置界面语言
-    LC_MESSAGES "zh_CN.UTF-8"
+    //LC_CTYPE "zh_CN.UTF-8" 会导致输入法出现漏字
+    //LC_MESSAGES "zh_CN.UTF-8" 让系统全局使用英文，仅主要界面为英文时使用这个环境变量
+    LANG "zh_CN.UTF-8"
+    LC_CTYPE "en_US.UTF-8"
+    //LC_MESSAGES "zh_CN.UTF-8"
     // 输入法环境变量
     XMODIFIERS "@im=fcitx"
     // qt主题
@@ -350,8 +354,10 @@ spawn-sh-at-startup "waybar -c $HOME/.config/waybar-niri-Win11Like/config.jsonc 
 spawn-at-startup "mako" // 通知程序
 spawn-at-startup "fcitx5 -d"  // 输入法
 spawn-at-startup "/home/flyingyu/.config/niri/scripts/swayidle.sh" // 闲置时自动熄屏锁屏休眠的脚本
-spawn-sh-at-startup "clipse --listen" // 剪贴板守护进程
 spawn-at-startup "swayosd-server" // 大写锁定键的 osd 显示
+
+spawn-at-startup "wl-paste" "--watch" "cliphist" "store" // 剪贴板守护进程 cliphist
+spawn-at-startup "~/.local/bin/clipsyncw" // x11 和 wayland剪贴板同步
 
 spawn-at-startup "awww-daemon"  // 桌面壁纸的守护进程
 spawn-sh-at-startup "awww-daemon -n overview" // 总览界面背景壁纸的守护进程

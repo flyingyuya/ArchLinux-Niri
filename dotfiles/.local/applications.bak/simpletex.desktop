@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=SimpleTex
+Comment=SimpleTex software
+Icon=/home/flyingyu/AppImages/.icons/simpletex.png
+TryExec=/home/flyingyu/AppImages/simpletex.appimage
+Exec=env DESKTOPINTEGRATION=1 GTK_IM_MODULE=fcitx QT_IM_MODULE=fcitx /home/flyingyu/AppImages/simpletex.appimage --no-sandbox %U
+Terminal=false
+MimeType=x-scheme-handler/simpletex;
+Categories=Utility;
+StartupWMClass=SimpleTex
+X-AppImage-Version=0.2.11

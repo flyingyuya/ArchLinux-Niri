@@ -6,7 +6,7 @@
 // (This example rule is commented out with a "/-" in front.)
 // 全局窗口规则
 window-rule {
-    geometry-corner-radius 12 // 圆角
+    geometry-corner-radius 5 // 圆角
     clip-to-geometry true // 剪掉圆角外的窗口内容
     opacity 0.97  // 透明度
     draw-border-with-background false // 禁止边框画到窗口后面
@@ -32,9 +32,7 @@ window-rule {
     // - Flatpak Firefox (app-id is "org.mozilla.firefox")
     match app-id=r#"firefox$"# title="^Picture-in-Picture$"
     match app-id="waypaper"
-    match app-id="clipse-gui"
     match app-id="pot"
-    match app-id="flameshot"
     match app-id="btrfs-assistant"
     match app-id="org.gnome.FileRoller"
     match app-id="be.alexandervanhee.gradia"
@@ -54,6 +52,23 @@ window-rule {
     open-floating true
 }
 
+// Thunar 右键菜单功能浮动打开
+window-rule {
+	match app-id="media-info"
+	match app-id="floating-term"
+	
+    open-floating true
+}
+
+// 剪贴板
+window-rule {
+	match app-id="shorinclip"
+	
+    open-floating true
+    default-column-width { fixed 640; }
+    default-window-height { fixed 480; }
+}
+
 // applauncher 窗口表面上下浮动
 layer-rule{
     match namespace="^launcher$"
@@ -63,7 +78,7 @@ layer-rule{
 // 以浮动模式打开imv（一个轻量化图片预览程序）且不自动聚焦
 window-rule {
     match app-id="imv"
-    open-focused false
+    open-focused true
     open-floating true
 }
 // steam好友列表宽度
@@ -116,14 +131,14 @@ window-rule {
     match title="导入"
     match title="Manager$"
     open-floating true
-    opacity 1.0
 }
 
 // MusicFree
 /-window-rule {
-	match app-id="MusicFree" title="Free$"
+	match app-id="MusicFree" title=r#"^Music"#
 	open-floating true
-	opacity 0.1
+	//open-fullscreen true
+	//open-focused false
 }
 
 // Work around WezTerm's initial configure bug

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Ori and the Blind Forest
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/261570
+Icon=steam_icon_261570
+Terminal=false
+Type=Application
+Categories=Game;

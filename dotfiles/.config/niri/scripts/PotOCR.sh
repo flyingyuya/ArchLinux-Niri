@@ -12,4 +12,4 @@ rm -f "$CACHE_PATH"
 # 使用 grim 和 slurp 进行区域截图并保存到指定位置
 # -g "$(slurp)" 用鼠标拉框
 grim -g "$(slurp)" "$CACHE_PATH" && \
-curl "127.0.0.1:60828/ocr_translate?screenshot=false"
+curl --noproxy '*' -s "127.0.0.1:60828/ocr_translate?screenshot=false"

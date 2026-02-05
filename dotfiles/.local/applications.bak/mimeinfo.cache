@@ -1,0 +1,26 @@
+[MIME Cache]
+application/epub+zip=com.github.johnfactotum.Foliate.desktop;
+application/marc=zotero.desktop;
+application/mods+xml=zotero.desktop;
+application/rdf+xml=zotero.desktop;
+application/vnd.amazon.mobi8-ebook=com.github.johnfactotum.Foliate.desktop;
+application/vnd.citationstyles.style+xml=zotero.desktop;
+application/vnd.comicbook+zip=com.github.johnfactotum.Foliate.desktop;
+application/x-bibtex=zotero.desktop;
+application/x-endnote-refer=zotero.desktop;
+application/x-fictionbook+xml=com.github.johnfactotum.Foliate.desktop;
+application/x-inst-for-Scientific-info=zotero.desktop;
+application/x-mobipocket-ebook=com.github.johnfactotum.Foliate.desktop;
+application/x-research-info-systems=zotero.desktop;
+application/x-zip-compressed-fb2=com.github.johnfactotum.Foliate.desktop;
+text/plain=zotero.desktop;
+text/ris=zotero.desktop;
+text/x-bibtex=zotero.desktop;
+text/x-research-info-systems=zotero.desktop;
+x-scheme-handler/bilipc=bilibili.desktop;
+x-scheme-handler/clash=clash-verge-handler.desktop;
+x-scheme-handler/clash-verge=clash-verge-handler.desktop;
+x-scheme-handler/opds=com.github.johnfactotum.Foliate.desktop;
+x-scheme-handler/simpletex=simpletex.desktop;
+x-scheme-handler/zotero=zotero.desktop;
+x-scheme-handler/zy=zyfun.desktop;

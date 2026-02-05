@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=bilibili
+Exec=env GTK_IM_MODULE=fcitx QT_IM_MODULE=fcitx bilibili --gtk-version=3 %U
+Terminal=false
+Type=Application
+Icon=bilibili
+StartupWMClass=bilibili
+Comment=BiliBili client for Linux with roaming.
+Categories=AudioVideo;
+MimeType=x-scheme-handler/bilipc;
