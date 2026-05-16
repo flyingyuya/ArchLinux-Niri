@@ -17,7 +17,6 @@ text/plain=zotero.desktop;
 text/ris=zotero.desktop;
 text/x-bibtex=zotero.desktop;
 text/x-research-info-systems=zotero.desktop;
-x-scheme-handler/bilipc=bilibili.desktop;
 x-scheme-handler/clash=clash-verge-handler.desktop;
 x-scheme-handler/clash-verge=clash-verge-handler.desktop;
 x-scheme-handler/opds=com.github.johnfactotum.Foliate.desktop;

@@ -1,4 +1,8 @@
+# 同步复制到系统粘贴板
 set selection-clipboard clipboard
+
+# 开启状态栏和滚动条
+set guioptions sv
 
 # 反色模式配置
 set recolor "true"
@@ -14,3 +18,14 @@ set index-active-fg    "#1E2326" # 选中项文字：深色
 
 set font "monospace bold 12" # 设置字体大小
 set index-follow "true" # 索引跟随
+
+# 启用增量搜索
+set incremental-search true
+# 快捷缩放
+map <C-i> zoom in
+map <C-o> zoom out
+
+# Latex 反向同步
+set dbus-service true
+set synctex true
+set synctex-editor-command "nvr --remote-silent +%{line} %{input}"

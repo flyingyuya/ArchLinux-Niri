@@ -1,0 +1,41 @@
+{
+  "version": 3,
+  "skills": {
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "3013fdeb8a11b10b1eb795ec3ae8bfca38f7c26d",
+      "installedAt": "2026-05-08T16:04:30.972Z",
+      "updatedAt": "2026-05-08T16:04:56.229Z"
+    },
+    "skill-maker": {
+      "source": "alpoxdev/hypercore",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/alpoxdev/hypercore.git",
+      "skillPath": "skills/skill-maker/SKILL.md",
+      "skillFolderHash": "23290151babe7d9e3f8a0368c34d5134ecca0150",
+      "installedAt": "2026-05-12T14:28:32.323Z",
+      "updatedAt": "2026-05-12T14:28:32.323Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "antigravity",
+    "cline",
+    "codex",
+    "cursor",
+    "deepagents",
+    "dexto",
+    "firebender",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-cli",
+    "opencode",
+    "warp"
+  ]
+}

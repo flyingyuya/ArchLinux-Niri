@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=MusicFree
+Comment=一个插件化的音乐播放器
+GenericName=MusicFree
+Exec=musicfree-desktop --in-process-gpu %U
+Icon=musicfree-desktop
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;AudioVideo;
+MimeType=x-scheme-handler/musicfree-desktop;
+

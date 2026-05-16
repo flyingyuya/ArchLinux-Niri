@@ -8,12 +8,12 @@
 window-rule {
     geometry-corner-radius 5 // 圆角
     clip-to-geometry true // 剪掉圆角外的窗口内容
-    opacity 0.97  // 透明度
+    opacity 0.95  // 透明度
     draw-border-with-background false // 禁止边框画到窗口后面
 }
 
 // 放进 overview 里的壁纸程序
-layer-rule{
+/-layer-rule{
     //match namespace="hyprpaper"
     //match namespace="wallpaper"
     match namespace="awww-daemonoverview"
@@ -22,6 +22,11 @@ layer-rule{
 /-layer-rule{
     match namespace="awww-daemonoverview"
     baba-is-float true
+}
+layer-rule{
+    // match namespace="noctalia-wallpaper-*"
+    match namespace="noctalia-overview-*"
+    place-within-backdrop true
 }
 
 // Open the Firefox picture-in-picture player as floating by default.
@@ -34,6 +39,7 @@ window-rule {
     match app-id="waypaper"
     match app-id="pot"
     match app-id="btrfs-assistant"
+    match app-id="SimpleTex"
     match app-id="org.gnome.FileRoller"
     match app-id="be.alexandervanhee.gradia"
     match app-id="niri-quick-switch-menu"
@@ -48,6 +54,11 @@ window-rule {
     match title="聊天记录"
     match title="日历"
     match title="重命名"
+    match title="Steam 设置" 
+    match title="另存为"
+    match app-id="io.github.fabrialberio.pinapp"
+    match app-id="org.gnome.Calculator"
+    match app-id="floating-mpv"
     
     open-floating true
 }
@@ -62,11 +73,13 @@ window-rule {
 
 // 剪贴板
 window-rule {
-	match app-id="shorinclip"
+    match app-id="shorinclip"
+	match app-id="cliphist-tui"
 	
     open-floating true
-    default-column-width { fixed 640; }
-    default-window-height { fixed 480; }
+    default-column-width { fixed 800; }
+    default-window-height { fixed 720; }
+    default-floating-position x=0 y=18 relative-to="top"
 }
 
 // applauncher 窗口表面上下浮动
@@ -93,7 +106,7 @@ window-rule {
 }
 
 // waydroid调整
-window-rule {
+/-window-rule {
     match title="gsr ui"
     match app-id="waydroid"
     open-fullscreen true
@@ -141,6 +154,12 @@ window-rule {
 	//open-focused false
 }
 
+// Moekoe Music
+/-window-rule {
+	match app-id="moekoemusic" title=r#"^MoeKoe"#
+	open-floating true
+}
+
 // Work around WezTerm's initial configure bug
 // by setting an empty default-column-width.
 window-rule {
@@ -161,5 +180,16 @@ window-rule {
 
     // Use this instead if you want them visible on third-party screenshot tools.
     // block-out-from "screencast"
+}
+
+// 屏保 layer-shell 配置
+/-layer-rule {
+    match namespace="screensaver"
+}
+
+// 关闭NVIDIA显卡渲染
+/-debug {
+    ignore-drm-device "/dev/dri/by-path/pci-0000:01:00.0-card"
+    ignore-drm-device "/dev/dri/by-path/pci-0000:01:00.0-render"
 }
 

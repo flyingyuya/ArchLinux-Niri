@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=This War of Mine
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/282070
+Icon=steam_icon_282070
+Terminal=false
+Type=Application
+Categories=Game;

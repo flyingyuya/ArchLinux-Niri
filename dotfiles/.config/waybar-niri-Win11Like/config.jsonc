@@ -1,7 +1,7 @@
 {
     "include": [
-        "~/.config/waybar-niri-Win11Like/modules.jsonc",
-        "~/.config/waybar/modules.jsonc"
+        // "~/.config/waybar/modules.jsonc",
+        "~/.config/waybar-niri-Win11Like/modules.jsonc"
     ],
     "layer":"top",
     "position": "top",
@@ -10,10 +10,12 @@
     "reload_style_on_change": true,
     "modules-left": [
         "niri/workspaces",
-        "cffi/niri-taskbar",
+        // "cffi/niri-taskbar",
         "custom/screenshot",
         "custom/wfrec",
         "custom/colorpicker",
+		"custom/clipboard",
+		"custom/actions",
         "niri/window",
     ],
     "modules-center": [
@@ -23,7 +25,6 @@
         "battery",
         "idle_inhibitor",
         "power-profiles-daemon",
-        "custom/gpu",
         "custom/applauncher",
         "custom/cava",
         //"custom/separator#2",

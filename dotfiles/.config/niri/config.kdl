@@ -7,6 +7,7 @@ include "binds.kdl" // 快捷键
 include "rule.kdl"  // 窗口规则
 // 这是include进来的颜色文件，主要设置了窗口边框
 include "colors.kdl"
+include "blur.kdl" // 背景模糊
 
 // 环境变量
 environment {
@@ -20,10 +21,15 @@ environment {
     XMODIFIERS "@im=fcitx"
     // qt主题
     QT_QPA_PLATFORMTHEME "qt6ct"
+    // QT_SCALE_FACTOR "1.25"
+    // QT_AUTO_SCREEN_SCALE_FACTOR "0"
+    // QT_SCREEN_SCALE_FACTORS "1.25"
+    // QT_FONT_DPI "120"
     // GTK软件使用的渲染器，可以解决n卡双显卡导致的GTK应用启动缓慢问题
     GSK_RENDERER "ql"
     // 默认文本编辑器
-    EDITOR "vim"
+    EDITOR "nvim"
+    TERMINAL "kitty"
 }
 
 // 光标配置
@@ -155,7 +161,6 @@ input {
     // If the mode is omitted altogether or is invalid, niri will pick one automatically.
     // Run `niri msg outputs` while inside a niri instance to list all outputs and their modes.
     mode "1920x1080@120.030"
-
     // You can use integer or fractional scale, for example use 1.5 for 150% scale.
     scale 2
 
@@ -176,9 +181,18 @@ input {
 }
 
 output "eDP-1" {
+	// off
 	mode "2560x1440@165.003"
 	scale 1.3333333333333333
 	position x=0 y=0
+	// variable-refresh-rate
+	//focus-at-startup
+}
+
+output "HDMI-A-1" {
+	mode "2560x1440@143.999"
+	scale 1.0
+	position x=1920 y=0
 	// variable-refresh-rate
 	focus-at-startup
 }
@@ -236,7 +250,7 @@ layout {
         // off
 
         // How many logical pixels the ring extends out from the windows.
-        width 3
+        width 2.5 
 
         // Colors can be set in a variety of ways:
         // - CSS named colors: "red"
@@ -345,28 +359,47 @@ layout {
 // See the binds section below for more spawn examples.
 
 // This line starts waybar, a commonly used bar for Wayland compositors.
-// 自启动设置
-spawn-sh-at-startup "dbus-update-activation-environment --systemd DISPLAY WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=niri"	// 更新环境变量
-spawn-sh-at-startup "dbus-update-activation-environment --systemd --all & /usr/lib/xdg-desktop-portal-gtk" // 屏幕分享、录屏相关的环境设置
-spawn-at-startup "/usr/lib/polkit-kde-authentication-agent-1"	// 询问管理员权限功能（身份验证）
-spawn-sh-at-startup "gnome-keyring-daemon --start --components=secrets"  // gnome 密钥管理服务
-spawn-sh-at-startup "waybar -c $HOME/.config/waybar-niri-Win11Like/config.jsonc -s $HOME/.config/waybar-niri-Win11Like/style.css" // 任务栏
-spawn-at-startup "mako" // 通知程序
-spawn-at-startup "fcitx5 -d"  // 输入法
-spawn-at-startup "/home/flyingyu/.config/niri/scripts/swayidle.sh" // 闲置时自动熄屏锁屏休眠的脚本
-spawn-at-startup "swayosd-server" // 大写锁定键的 osd 显示
+//------------------- 自启动设置 --------------------
+// 桌面壁纸的守护进程
+// spawn-at-startup "awww-daemon"
+// 总览界面背景壁纸的守护进程
+// spawn-sh-at-startup "awww-daemon -n overview"
 
-spawn-at-startup "wl-paste" "--watch" "cliphist" "store" // 剪贴板守护进程 cliphist
-spawn-at-startup "~/.local/bin/clipsyncw" // x11 和 wayland剪贴板同步
+// 更新环境变量
+spawn-sh-at-startup "dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP"
+// 屏幕分享、录屏相关的环境设置
+spawn-sh-at-startup "/usr/lib/xdg-desktop-portal-gtk"
+// 询问管理员权限功能（身份验证）
+spawn-at-startup "/usr/lib/polkit-kde-authentication-agent-1"
+// gnome 密钥管理服务
+spawn-sh-at-startup "gnome-keyring-daemon --start --components=secrets"
+// 输入法
+spawn-at-startup "fcitx5 -d"
+// 任务栏
+// spawn-sh-at-startup "waybar -c $HOME/.config/waybar-niri-Win11Like/config.jsonc -s $HOME/.config/waybar-niri-Win11Like/style.css"
+// 通知程序
+// spawn-at-startup "mako"
 
-spawn-at-startup "awww-daemon"  // 桌面壁纸的守护进程
-spawn-sh-at-startup "awww-daemon -n overview" // 总览界面背景壁纸的守护进程
+// 闲置时自动熄屏锁屏休眠的脚本
+// spawn-at-startup "/home/flyingyu/.config/niri/scripts/swayidle.sh"
+// 大写锁定键的 osd 显示
+// spawn-at-startup "swayosd-server"
+// 自动开启护眼模式
+// spawn-at-startup "~/.local/bin/toggle-wlsunset"
+// 启动 niri 时 ss 随机更换一张壁纸
+// spawn-at-startup "waypaper" "--random"
+// 有聚焦窗口时桌面自动模糊的脚本
+// spawn-at-startup "/home/flyingyu/.config/niri/scripts/niri_auto_blur_bg.sh"
+// niri-siderbar
+// spawn-at-startup "~/.local/bin/niri-sidebar" "listen"
 
-spawn-at-startup "waypaper" "--random"  // 启动 niri 时 ss 随机更换一张壁纸
-spawn-at-startup "/home/flyingyu/.config/niri/scripts/niri_auto_blur_bg.sh" // 有聚焦窗口时桌面自动模糊的脚本
+// 剪贴板守护进程 cliphist
+// spawn-at-startup "wl-paste" "--watch" "cliphist" "store"
+
 
 // To run a shell command (with variables, pipes, etc.), use spawn-sh-at-startup:
 // spawn-sh-at-startup "qs -c ~/source/qs/MyAwesomeShell"
+spawn-sh-at-startup "qs -c noctalia-shell"
 
 // 取消启动niri时自动开启快捷键教程
 hotkey-overlay {
@@ -400,4 +433,6 @@ animations {
     // Slow down all animations by this factor. Values below 1 speed them up instead.
     // slowdown 3.0
 }
+
+include "./noctalia.kdl"
 

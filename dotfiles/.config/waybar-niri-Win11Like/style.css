@@ -79,7 +79,9 @@ tooltip label {
 
 #custom-screenshot,
 #custom-wfrec,
-#custom-colorpicker {
+#custom-colorpicker,
+#custom-clipboard,
+#custom-actions {
     background-color: @surface_container_high;
     color: @tertiary;
 }
@@ -90,7 +92,9 @@ tooltip label {
 
 #custom-screenshot,
 #custom-wfrec,
-#custom-colorpicker {
+#custom-colorpicker,
+#custom-clipboard,
+#custom-actions {
     padding: 0px 5px;
     margin: 5px 0px 5px 0px;
     font-size: 1.11em; /* 原 20px */
@@ -101,12 +105,16 @@ tooltip label {
     margin: 5px 0px 5px 5px;
     border-radius: 5px 0px 0px 5px;
 }
-
 #custom-wfrec {
     border-radius: 0px;
 }
-
 #custom-colorpicker {
+	border-radius: 0px;
+}
+#custom-clipboard {
+	border-radius: 0px;
+}
+#custom-actions {
     padding: 0px 15px 0px 5px;
     margin: 5px 5px 5px 0px;
     border-radius: 0px 5px 5px 0px;
@@ -370,9 +378,9 @@ window#waybar.empty #window {
 }
 
 #power-profiles-daemon {
-    padding: 0px 10px 0px 5px;
-    margin: 5px 0px 5px 0px;
-    border-radius: 0px 0px 0px 0px;
+    padding: 0px 15px 0px 5px;
+    margin: 5px 5px 5px 0px;
+    border-radius: 0px 5px 5px 0px;
     color: @tertiary;
 }
 
@@ -391,18 +399,19 @@ window#waybar.empty #window {
 }
 
 /* GPU 显卡切换模块 */
-#custom-gpu {
+/* #custom-gpu {
     background-color: @surface_container_high;
     color: @tertiary;
     margin: 5px 5px 5px 0px;
     border-radius: 0px 5px 5px 0px;
     padding: 0px 15px 0px 5px;
-}
+} */
 /* 当处于 NVIDIA 模式时，改变颜色作为状态提醒 */
-#custom-gpu.nvidia {
+/* #custom-gpu.nvidia {
     color: @on_error;
     font-weight: bold;
-}
+} */
+
 
 #battery {
     padding: 0px 10px 0px 5px;

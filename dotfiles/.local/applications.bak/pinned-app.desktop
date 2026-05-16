@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=New application
+Type=Application
+Icon=application-x-executable
+Exec=notify-send "Hello world!"
+NoDisplay=true

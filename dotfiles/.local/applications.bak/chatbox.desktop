@@ -8,4 +8,5 @@ Exec=env GTK_IM_MODULE=fcitx QT_IM_MODULE=fcitx DESKTOPINTEGRATION=1 /home/flyin
 Terminal=false
 Categories=Development;
 StartupWMClass=Chatbox
-X-AppImage-Version=1.18.4
+X-AppImage-Version=1.19.1
+X-AppImage-Name=Chatbox

@@ -222,7 +222,7 @@
   "custom/lockscreen": {
     "tooltip": false,
     "format": "",
-    "on-click": "swaylock || hyprlock",
+    "on-click": "hyprlock -c ~/.config/niri/hyprlock.conf || swaylock",
   },
   "custom/reboot": {
     "tooltip": false,
@@ -327,6 +327,7 @@
     "tooltip": false,
     "format": "{}",
     "exec": "~/.config/waybar/scripts/cava.sh",
+    "on-click": "playerctl play-pause"
   },
   //禁止熄屏
   "idle_inhibitor": {
@@ -372,6 +373,7 @@
   "cffi/niri-taskbar": {
     // module_path
     "module_path": "/usr/lib/waybar/libniri_taskbar.so",
+    "interval": 1,
     "apps": {
       "signal": [
         {
@@ -418,4 +420,26 @@
     "tooltip-format": "used: {used}GiB\nfree: {avail}GiB\ntotal: {total}GiB\nswap used: {swapUsed}GiB",
     "on-click": "kitty -e btop"
   },
+  //剪贴板
+  "custom/clipboard":{
+    "format":"󰅍",
+    "on-click":"kitty --class shorinclip -e shorinclip",
+    "on-click-middle":"pkill wl-paste || true && wl-paste --watch cliphist store && sleep 0.5 && systemctl restart --user clipsync",
+    "on-click-right":"rm -f ~/.cache/cliphist/db",
+    "tooltip-format":"左键：打开剪贴板\n右键：清除剪贴板历史\n中键：重启剪贴板后台服务"
+  },
+  // 壁纸切换
+  "custom/wallpapers":{
+	"format":"󰸉",
+	"tooltip-format":"左键：打开壁纸切换器\n右键：随机切换壁纸\n中键：随机下载动漫壁纸",
+	"on-click":"waypaper",
+	"on-click-right":"waypaper --random",
+	"on-click-middle":"~/.config/scripts/random-anime-wallpaper.sh"
+   },
+  // 常用命令
+  "custom/actions":{
+	"format":"",
+	"tooltip-format":"左键：常用命令",
+	"on-click":"~/.config/waybar/scripts/command-center.sh"
+ }
 }

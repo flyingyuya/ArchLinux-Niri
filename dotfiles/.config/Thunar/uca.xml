@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<submenu></submenu>
+	<unique-id>1766493361376950-1</unique-id>
+	<command>kitty -e fish</command>
+	<description>Example for a custom action</description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon></icon>
+	<name>多媒体信息</name>
+	<submenu></submenu>
+	<unique-id>1770043990449784-1</unique-id>
+	<command>kitty --class=&quot;media-info&quot; -e media-info %f</command>
+	<description></description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<audio-files/>
+	<image-files/>
+	<video-files/>
+</action>
+<action>
+	<icon></icon>
+	<name>粘贴为链接</name>
+	<submenu></submenu>
+	<unique-id>1770044492368864-2</unique-id>
+	<command>sh -c &apos;d=&quot;%f&quot;; [ -d &quot;$d&quot; ] || d=&quot;$(dirname &quot;$d&quot;)&quot;; wl-paste -t text/uri-list | while read -r line; do src=$(echo &quot;$line&quot; | sed &quot;s|^file://||&quot; | python3 -c &quot;import sys, urllib.parse; print(urllib.parse.unquote(sys.stdin.read().strip()))&quot;); [ -z &quot;$src&quot; ] &amp;&amp; continue; name=$(basename &quot;$src&quot;); target=&quot;$d/$name&quot;; if [ &quot;$src&quot; = &quot;$target&quot; ]; then target=&quot;$d/${name}_link&quot;; fi; [ -e &quot;$src&quot; ] &amp;&amp; ln -s &quot;$src&quot; &quot;$target&quot;; done&apos;</command>
+	<description></description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon></icon>
+	<name>粘贴剪贴板图片</name>
+	<submenu></submenu>
+	<unique-id>1770044683715934-3</unique-id>
+	<command>sh -c &apos;d=&quot;%f&quot;; [ -d &quot;$d&quot; ] || d=&quot;$(dirname &quot;$d&quot;)&quot;; cd &quot;$d&quot; &amp;&amp; wl-paste --list-types | grep -q &quot;^image/&quot; &amp;&amp; wl-paste --type image/png &gt; &quot;img_$(date -Iseconds | cut -d+ -f1 | tr T _ | tr : -).png&quot;&apos;</command>
+	<description></description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon></icon>
+	<name>视频转gif</name>
+	<submenu></submenu>
+	<unique-id>1770044724687247-4</unique-id>
+	<command>kitty --class &quot;floating-term&quot; -e video2gif %F</command>
+	<description></description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
+<action>
+	<icon></icon>
+	<name>图片转png</name>
+	<submenu></submenu>
+	<unique-id>1770044762059091-5</unique-id>
+	<command>bash -c &apos;exec 1&gt;&gt;/tmp/img_err.log 2&gt;&amp;1; /usr/bin/notify-send &quot;图片转换&quot; &quot;正在后台处理 $# 张图片...&quot;; for f in &quot;$@&quot;; do /usr/bin/magick &quot;$f&quot; -delete 1--1 &quot;$(echo &quot;$f&quot; | sed &quot;s/\.[^.]*$//&quot;).png&quot;; done; /usr/bin/notify-send &quot;图片转换&quot; &quot;处理完成&quot;&apos; -- %F</command>
+	<description></description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<image-files/>
+</action>
+<action>
+	<icon></icon>
+	<name>压缩视频大小</name>
+	<submenu></submenu>
+	<unique-id>1770044818159315-6</unique-id>
+	<command>kitty --class &quot;floating-term&quot; bash -c &apos;f=&quot;$1&quot;; out=&quot;$(echo &quot;$f&quot; | sed &quot;s/\.[^.]*$//&quot;)_compressed.mp4&quot;; echo &quot;正在处理: $f&quot;; ffmpeg -i &quot;$f&quot; -c:v libx264 -crf 26 -preset slow -c:a aac -b:a 128k -pix_fmt yuv420p &quot;$out&quot;; echo -e &quot;\n✅ 压缩完成！文件已保存为: $out&quot;; read -n 1 -s -r -p &quot;按任意键退出...&quot; &apos; -- %f</command>
+	<description></description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
+<action>
+	<icon></icon>
+	<name>使用 nvim 打开</name>
+	<submenu></submenu>
+	<unique-id>1772968863466891-1</unique-id>
+	<command>kitty -e nvim %F</command>
+	<description></description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+	<other-files/>
+	<text-files/>
+</action>
+</actions>
