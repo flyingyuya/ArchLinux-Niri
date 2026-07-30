@@ -1,0 +1,36 @@
+#!/bin/bash
+
+# 动态获取当前活跃的 Neovim 通信套接字
+NVIM_SERVER="$NVIM"
+if [ -z "$NVIM_SERVER" ]; then
+    NVIM_SERVER=$(ls -t /run/user/1000/nvim.*.0 2>/dev/null | head -n 1)
+fi
+
+# 构造适合 Wayland 架构的逆向搜索跳转指令
+FIXED_X_CMD="nvim --server $NVIM_SERVER --remote-send \"<C-\\><C-N>:execute \\\"drop %{input}\\\" | :%{line}<CR>\""
+
+# 过滤并重构命令参数
+ARGS=()
+HAS_X=false
+while [[ $# -gt 0 ]]; do
+    case "$1" in
+        -x)
+            ARGS+=("-x" "$FIXED_X_CMD")
+            HAS_X=true
+            shift 2
+            ;;
+        *)
+            ARGS+=("$1")
+            shift
+            ;;
+    esac
+done
+
+# 如果参数里没有 -x，则进行重构
+if [ "$HAS_X" = false ]; then
+    ARGS=("-x" "$FIXED_X_CMD" "${ARGS[@]}")
+fi
+
+# 唤起真正的 Zathura
+exec /usr/bin/zathura "${ARGS[@]}"
+

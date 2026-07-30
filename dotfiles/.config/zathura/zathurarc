@@ -26,6 +26,6 @@ map <C-i> zoom in
 map <C-o> zoom out
 
 # Latex 反向同步
-set dbus-service true
+# set dbus-service true
 set synctex true
-set synctex-editor-command "nvr --remote-silent +%{line} %{input}"
+# set synctex-editor-command "sh -c 'nvim --server $(ls -t /run/user/1000/nvim.*.0 2>/dev/null | head -n 1) --remote-send \"<C-\\><C-N>:execute \\\"drop %{input}\\\" | :%{line}<CR>\"'"

@@ -1,152 +1,96 @@
 {
     "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    
+    "display": {
+        "separator": "  "
+    },
+    
     "logo": {
-        "source": "/home/flyingyu/.config/fastfetch/anime/archgirl.png",
-        "type": "kitty",
-        "height": 20,
-        "width": 30,
+        "type": "auto",
+        "source": "~/.config/fastfetch/cat-ascii.txt",
         "padding": {
             "top": 3,
             "left": 3
         }
     },
+
     "modules": [
-        "break",
         {
-          "type": "custom",
-          "format": "\u001b[36m┌─────────────────── Eat 󰗲, Sleep , FlyingYu  ────────────────────┐",
-        },
-        {
-          "type": "command",
-          "key": "󰖟 Web",
-          "keyColor": "cyan",
-          "text": "echo WwW.FlyingYu.Top",
-          "keyWidth": 26
-        },
-        {
-          "type": "custom",
-          "format": "\u001b[36m└───────────────────────────────────────────────────────────────────┘",
-          "keyWidth": 20
-            },
-            "break",
-            {
             "type": "custom",
-            "format": "\u001b[92m┌─────────────────────────── 󰋊 Hardware 󰋊 ──────────────────────────┐"
+            "format": ""
         },
         {
-            "type": "host",
-            "key": " PC",
-            "keyColor": "green"
+            "type": "custom",
+            "format": ""
         },
         {
-            "type": "memory",
-            "key": "│ ├󰍛",
-            "keyColor": "green"
+            "key": "╭───────────╮",
+            "type": "custom"
         },
         {
+            "key": "│ {#31} user    {#keys}│",
+            "type": "title",
+            "format": "{user-name}"
+        },
+        {
+            "key": "│ {#32}󰇅 hname   {#keys}│",
+            "type": "title",
+            "format": "{host-name}"
+        },
+        {
+            "key": "│ {#33}󰅐 uptime  {#keys}│",
+            "type": "uptime"
+        },
+        {
+            "key": "│ {#34}{icon} distro  {#keys}│",
+            "type": "os"
+        },
+        {
+            "key": "│ {#35} kernel  {#keys}│",
+            "type": "kernel"
+        },
+        {
+            "key": "│ {#36} wm      {#keys}│",
+            "type": "wm"
+        },
+        {
+            "key": "│ {#36}󰇄 desktop {#keys}│",
+            "type": "de"
+        },
+        {
+            "key": "│ {#31} term    {#keys}│",
+            "type": "terminal"
+        },
+        {
+            "key": "│ {#32} shell   {#keys}│",
+            "type": "shell"
+        },
+        {
+            "key": "│ {#33}󰍛 cpu     {#keys}│",
             "type": "cpu",
-            "key": "│ ├",
-            "keyColor": "green",
-            "format": "{1}, {3} Cores"
+            "showPeCoreCount": true
         },
         {
-            "type": "gpu",
-            "key": "│ ├",
-            "keyColor": "green",
-            "format": "{2}, {3}"
-        },
-        {
+            "key": "│ {#34}󰉉 disk    {#keys}│",
             "type": "disk",
-            "key": "│ └󰍛",
-            "keyColor": "green",
-            "format": "{1}, {2}"
+            "folders": "/"
         },
         {
-            "type": "custom",
-            "format": "\u001b[92m└───────────────────────────────────────────────────────────────────┘"
-        },
-        "break",
-        {
-            "type": "custom",
-            "format": "\u001b[93m┌─────────────────────────── 󰻠 System 󰻠 ────────────────────────────┐"
+            "key": "│ {#36} memory  {#keys}│",
+            "type": "memory"
         },
         {
-            "type": "os",
-            "key": " OS",
-            "keyColor": "yellow",
-            "format": "{name}"
+            "key": "├───────────┤",
+            "type": "custom"
         },
         {
-            "type": "wm",
-            "key": "│ ├",
-            "keyColor": "yellow"
+            "key": "│ {#39} colors  {#keys}│",
+            "type": "colors",
+            "symbol": "circle"
         },
         {
-            "type": "de",
-            "key": "│ ├",
-            "keyColor": "yellow"
-        },
-        {
-            "type": "kernel",
-            "key": "│ └",
-            "keyColor": "yellow"
-        },
-        {
-            "type": "custom",
-            "format": "\u001b[93m└───────────────────────────────────────────────────────────────────┘"
-        },
-        "break",
-        {
-            "type": "custom",
-            "format": "\u001b[94m┌───────────────────────── 󰔎 Theming/Other 󰔎 ───────────────────────┐"
-        },
-        {
-            "type": "shell",
-            "key": " sh",
-            "keyColor": "blue",
-            "format": "{1}"
-        },
-        {
-            "type": "wmtheme",
-            "key": "│ ├󰉼",
-            "keyColor": "blue"
-        },
-        {
-            "type": "terminal",
-            "key": "│ ├",
-            "keyColor": "blue",
-            "format": "{1}"
-        },
-        {
-            "type": "packages",
-            "key": "│ └󰏖",
-            "keyColor": "blue"
-        },
-        {
-            "type": "custom",
-            "format": "\u001b[94m└───────────────────────────────────────────────────────────────────┘"
-        },
-        "break",
-        {
-            "type": "custom",
-            "format": "\u001b[95m┌───────────────────────── 󰚭 System Times 󰚭 ────────────────────────┐"
-        },
-        {
-            "type": "command",
-            "key": "  OS Age ",
-            "keyColor": "magenta",
-            "keyWidth": 12,
-            "text": "birth_install=$(stat -c %W /); current=$(date +%s); time_progression=$((current - birth_install)); days_difference=$((time_progression / 86400)); echo $days_difference days"
-        },
-        {
-            "type": "uptime",
-            "key": "  Uptime ",
-            "keyColor": "magenta"
-        },
-        {
-            "type": "custom",
-            "format": "\u001b[95m└───────────────────────────────────────────────────────────────────┘"
-        },
-        "break",
+            "key": "╰───────────╯",
+            "type": "custom"
+        }
     ]
 }
