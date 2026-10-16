@@ -1,0 +1,508 @@
+[
+  {
+    "id": "003JgKS42LPv68",
+    "source": "tx",
+    "name": "南山雪",
+    "singer": "叶里",
+    "album_name": "南山雪",
+    "album_id": "002POseG1EkaQB",
+    "duration": {
+      "secs": 207,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000002POseG1EkaQB.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {
+      "strMediaMid": "0026oUD34BwiF4",
+      "songId": "288272705"
+    },
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "003bDwhD1fx9kG",
+    "source": "tx",
+    "name": "宫花红",
+    "singer": "平生不晚、汐音社",
+    "album_name": "宫花红",
+    "album_id": "00102g7x03Ytn2",
+    "duration": {
+      "secs": 179,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M00000102g7x03Ytn2.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {
+      "songId": "598382907",
+      "strMediaMid": "003bDwhD1fx9kG"
+    },
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "002vFTTV2Rywwk",
+    "source": "tx",
+    "name": "星河叹",
+    "singer": "黄龄",
+    "album_name": "星河叹",
+    "album_id": "002Poknx47qUQi",
+    "duration": {
+      "secs": 264,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000002Poknx47qUQi.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {
+      "songId": "367882913",
+      "strMediaMid": "002uFDBe2iqc78"
+    },
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "003BgwNZ3gUjR2",
+    "source": "tx",
+    "name": "难却",
+    "singer": "平生不晚",
+    "album_name": "难却",
+    "album_id": "003k1UYD0Epwsu",
+    "duration": {
+      "secs": 186,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000003k1UYD0Epwsu.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {
+      "songId": "369474690",
+      "strMediaMid": "000s8BAF0kYlPy"
+    },
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "000xxz9X0FQI9L",
+    "source": "tx",
+    "name": "不问别离",
+    "singer": "指尖笑",
+    "album_name": "不问别离",
+    "album_id": "001T6CIp4B5ZPD",
+    "duration": {
+      "secs": 180,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001T6CIp4B5ZPD.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {
+      "strMediaMid": "000AUwAk0n0jV4",
+      "songId": "403856184"
+    },
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "003Q8XLq2caeZJ",
+    "source": "tx",
+    "name": "一笑江湖",
+    "singer": "闻人听書_",
+    "album_name": "一笑江湖",
+    "album_id": "002LpFim37pdCS",
+    "duration": {
+      "secs": 208,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000002LpFim37pdCS.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {
+      "songId": "254114294",
+      "strMediaMid": "003olrCL1FjsYS"
+    },
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "000EBP5w14Vhbz",
+    "source": "tx",
+    "name": "星河入梦",
+    "singer": "刘宇",
+    "album_name": "星河入梦",
+    "album_id": "001GwfFF29wqIE",
+    "duration": {
+      "secs": 274,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001GwfFF29wqIE.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {
+      "strMediaMid": "002dtwPC36tBEo",
+      "songId": "258379693"
+    },
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "27646205",
+    "source": "wy",
+    "name": "安和桥",
+    "singer": "宋冬野",
+    "album_name": "安和桥北",
+    "album_id": "2646285",
+    "duration": {
+      "secs": 250,
+      "nanos": 106000000
+    },
+    "cover_url": "http://p2.music.126.net/Ss7mkl2EK3Xl7Vv6iz-XAg==/109951172945820235.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {},
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "003jFLyx0sjqaT",
+    "source": "tx",
+    "name": "天地劫",
+    "singer": "黄龄",
+    "album_name": "天地劫: 幽城再临 主题曲",
+    "album_id": "0038tDuk4VIRWs",
+    "duration": {
+      "secs": 162,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M0000038tDuk4VIRWs.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {
+      "strMediaMid": "000SUh2D1xYpST",
+      "songId": "300474567"
+    },
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "0021Bvky0p9OMR",
+    "source": "tx",
+    "name": "你的万水千山",
+    "singer": "海来阿木",
+    "album_name": "你的万水千山",
+    "album_id": "001Abpoj0wpAUx",
+    "duration": {
+      "secs": 249,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001Abpoj0wpAUx.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {
+      "strMediaMid": "000NZghM028VFi",
+      "songId": "265792112"
+    },
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "2019279516",
+    "source": "wy",
+    "name": "精卫",
+    "singer": "一颗狼星",
+    "album_name": "精卫（戏腔）",
+    "album_id": "163180059",
+    "duration": {
+      "secs": 176,
+      "nanos": 784000000
+    },
+    "cover_url": "http://p2.music.126.net/DRAwf2g65M3a-0xLKQw9jw==/109951168527005053.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {},
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "00057jkW1DsOrQ",
+    "source": "tx",
+    "name": "凄美地",
+    "singer": "郭顶",
+    "album_name": "凄美地",
+    "album_id": "003WwY5s1LXijO",
+    "duration": {
+      "secs": 250,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000003WwY5s1LXijO.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {
+      "songId": "108955211",
+      "strMediaMid": "002Ogwnd4JhVdM"
+    },
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "002pk70j0rkJOE",
+    "source": "tx",
+    "name": "天亮以前说再见",
+    "singer": "何野",
+    "album_name": "天亮以前说再见",
+    "album_id": "001sH07G2hcExA",
+    "duration": {
+      "secs": 240,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001sH07G2hcExA.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {
+      "songId": "218659640",
+      "strMediaMid": "00188BqS4X3oEy"
+    },
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "001LnmP80Nkw3D",
+    "source": "tx",
+    "name": "尘念",
+    "singer": "桑耶",
+    "album_name": "尘念",
+    "album_id": "004JOKyc3uwFZP",
+    "duration": {
+      "secs": 196,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000004JOKyc3uwFZP.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {
+      "strMediaMid": "004AGPlM0LNb2a",
+      "songId": "664418793"
+    },
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "001LTjkc1deP2x",
+    "source": "tx",
+    "name": "别叹",
+    "singer": "黄霄雲",
+    "album_name": "朝雪录 影视原声带",
+    "album_id": "001Zvc5E1pmtX1",
+    "duration": {
+      "secs": 249,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001Zvc5E1pmtX1.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {
+      "songId": "588162785",
+      "strMediaMid": "001LTjkc1deP2x"
+    },
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "004aGCV80yaYUp",
+    "source": "tx",
+    "name": "春庭雪 (2025华彩传承晚会现场)",
+    "singer": "张紫宁、郭雨昂",
+    "album_name": "",
+    "album_id": "",
+    "duration": {
+      "secs": 232,
+      "nanos": 0
+    },
+    "cover_url": null,
+    "qualities": [
+      "128k"
+    ],
+    "audio": null,
+    "extra": {
+      "songId": "556726016",
+      "strMediaMid": "004aGCV80yaYUp"
+    },
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "001ujNEF1wAALb",
+    "source": "tx",
+    "name": "初见",
+    "singer": "余昭源、叶里",
+    "album_name": "东宫 电视剧原声大碟",
+    "album_id": "004DOyew4e2tRW",
+    "duration": {
+      "secs": 269,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000004DOyew4e2tRW.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {
+      "strMediaMid": "001ujNEF1wAALb",
+      "songId": "228957991"
+    },
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "001ddH3X0NpmQQ",
+    "source": "tx",
+    "name": "重逢",
+    "singer": "应嘉俐",
+    "album_name": "诛仙动画",
+    "album_id": "",
+    "duration": {
+      "secs": 305,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000002dpsLJ3mLc0y.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {},
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "0033ZzGD2n0gem",
+    "source": "tx",
+    "name": "望月 (美声女教授)",
+    "singer": "江枝婉",
+    "album_name": "望月（美声女教授）",
+    "album_id": "",
+    "duration": {
+      "secs": 224,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000003Wwf1u1mX6he.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {},
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  },
+  {
+    "id": "001PGGQ81Xxw9l",
+    "source": "tx",
+    "name": "烟花易冷 (Live)",
+    "singer": "林志炫",
+    "album_name": "我是歌手第一季 第6期",
+    "album_id": "003XTB311VAqGw",
+    "duration": {
+      "secs": 316,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000003XTB311VAqGw.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "audio": null,
+    "extra": {
+      "songId": "106678944",
+      "strMediaMid": "001ydQ8m1HORtM"
+    },
+    "toggle_source": null,
+    "file_path": null,
+    "file_ext": null
+  }
+]

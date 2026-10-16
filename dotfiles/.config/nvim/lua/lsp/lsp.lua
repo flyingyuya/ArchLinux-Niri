@@ -91,7 +91,6 @@ lsp = {
                 },
             },
         },
-        enabled = true,
     },
     omnisharp = {
         formatter = "csharpier",
@@ -121,6 +120,21 @@ lsp = {
             },
         },
     },
+    texlab = {
+        -- Optional: install `latexindent` via mason for formatting (requires perl)
+        -- formatter = "latexindent",
+        -- Optional: chktex linting on open/save (requires `chktex` on system, Arch: part of texlive-binextra)
+        setup = {
+            settings = {
+                texlab = {
+                    chktex = {
+                        onOpenAndSave = true,
+                        onEdit = false,
+                    },
+                },
+            },
+        },
+    },
     ["typescript-language-server"] = {
         formatter = "prettier",
         setup = {
@@ -135,6 +149,26 @@ lsp = {
             end,
         },
     },
+    verible = {
+        formatter = "verible_verilog_format",
+        setup = {
+            -- 默认 root_markers 为 { ".git" },这里改用 get_root 以便在任意目录都能启动
+            root_dir = function(_, on_dir)
+                on_dir(require("core.utils").get_root())
+            end,
+            cmd = { "verible-verilog-ls", "--rules_config_search" },
+        },
+    },
 }
+
+-- 批量启用全部语言服务
+-- (见 docs/customization/plugins.md)
+for _, name in pairs(vim.tbl_keys(lsp)) do
+    lsp[name].enabled = true
+end
+
+-- 平时不用的语言单独关闭(Go / C#)
+lsp.gopls.enabled = false
+lsp.omnisharp.enabled = false
 
 Ice.lsp = lsp

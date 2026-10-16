@@ -1,0 +1,599 @@
+config_version = 14
+
+[backdrop]
+enabled = true
+
+[bar.default]
+background_opacity = 0.74999998323619366
+center = [ "clock", "lyrics", "cat" ]
+end = [
+    "tray",
+    "group:g1",
+    "network",
+    "bluetooth",
+    "volume",
+    "brightness",
+    "battery",
+    "widget",
+    "notifications",
+    "session"
+]
+font_family = "LXGW WenKai Mono Lite"
+font_weight = 700
+margin_edge = 3
+margin_ends = 3
+start = [ "launcher", "workspaces", "wallpaper", "clipboard", "widget_2", "active_window", "media" ]
+
+    [[bar.default.capsule_group]]
+    accordion = false
+    accordion_direction = "end"
+    border = "primary"
+    enabled = true
+    fill = "surface_variant"
+    id = "g1"
+    members = [ "cpu", "ram" ]
+    opacity = 0.0
+    padding = 6.0
+
+[brightness]
+enable_ddcutil = true
+minimum_brightness = 0.099999997764825821
+
+[desktop_widgets]
+schema_version = 2
+widget_order = [
+    "desktop-widget-0000000000000001",
+    "desktop-widget-0000000000000003",
+    "desktop-widget-0000000000000004",
+    "desktop-widget-0000000000000005"
+]
+
+    [desktop_widgets.grid]
+    cell_size = 16
+    major_interval = 4
+    visible = true
+
+    [desktop_widgets.widget.desktop-widget-0000000000000001]
+    box_height = 96.0
+    box_width = 192.0
+    cx = 960.0
+    cy = 92.0
+    output = "eDP-1"
+    placement_height = 1080.0
+    placement_width = 1920.0
+    rotation = 0.0
+    type = "clock"
+
+        [desktop_widgets.widget.desktop-widget-0000000000000001.settings]
+        background = true
+        background_opacity = 0.33000000000000002
+        center_text = false
+        clock_style = "digital"
+        font_family = "文泉驿正黑"
+        timezone = ""
+
+    [desktop_widgets.widget.desktop-widget-0000000000000003]
+    box_height = 384.0
+    box_width = 384.0
+    cx = 960.0
+    cy = 540.0
+    output = "eDP-1"
+    placement_height = 1080.0
+    placement_width = 1920.0
+    rotation = 0.0
+    type = "fancy_audio_visualizer"
+
+        [desktop_widgets.widget.desktop-widget-0000000000000003.settings]
+        background = false
+        visualization_mode = "bars_rings"
+
+    [desktop_widgets.widget.desktop-widget-0000000000000004]
+    box_height = 128.0
+    box_width = 240.0
+    cx = 1280.0
+    cy = 112.0
+    output = "HDMI-A-1"
+    placement_height = 1440.0
+    placement_width = 2560.0
+    rotation = 0.0
+    type = "clock"
+
+        [desktop_widgets.widget.desktop-widget-0000000000000004.settings]
+        background = true
+        background_opacity = 0.33000000000000002
+
+    [desktop_widgets.widget.desktop-widget-0000000000000005]
+    box_height = 384.0
+    box_width = 384.0
+    cx = 1280.0
+    cy = 720.0
+    output = "HDMI-A-1"
+    placement_height = 1440.0
+    placement_width = 2560.0
+    rotation = 0.0
+    type = "fancy_audio_visualizer"
+
+        [desktop_widgets.widget.desktop-widget-0000000000000005.settings]
+        background = false
+
+[idle]
+behavior_order = [ "lock", "screen-off", "lock-and-suspend" ]
+
+    [idle.behavior.lock]
+    action = "lock"
+    enabled = true
+    timeout = 600.0
+
+    [idle.behavior.lock-and-suspend]
+    action = "lock_and_suspend"
+    enabled = false
+    timeout = 900.0
+
+    [idle.behavior.screen-off]
+    action = "screen_off"
+    enabled = true
+    timeout = 660.0
+
+[location]
+address = "Wuhu, China"
+
+[lockscreen_widgets]
+enabled = true
+schema_version = 2
+widget_order = [
+    "lockscreen-login-box@HDMI-A-1",
+    "lockscreen-login-box@eDP-1",
+    "lockscreen-login-box@eDP-2",
+    "lockscreen-widget-0000000000000001",
+    "lockscreen-widget-0000000000000002",
+    "lockscreen-widget-0000000000000004",
+    "lockscreen-widget-0000000000000005",
+    "lockscreen-widget-0000000000000006",
+    "lockscreen-widget-0000000000000007",
+    "lockscreen-widget-0000000000000008"
+]
+
+    [lockscreen_widgets.grid]
+    cell_size = 16
+    major_interval = 4
+    visible = true
+
+    [lockscreen_widgets.widget."lockscreen-login-box@HDMI-A-1"]
+    box_height = 196.0
+    box_width = 810.0
+    cx = 1280.0
+    cy = 1258.0
+    output = "HDMI-A-1"
+    placement_height = 1440.0
+    placement_width = 2560.0
+    rotation = 0.0
+    type = "login_box"
+
+        [lockscreen_widgets.widget."lockscreen-login-box@HDMI-A-1".settings]
+        background_color = "surface_variant"
+        background_opacity = 0.88
+        background_radius = 12.0
+        center_password_text = false
+        input_opacity = 1.0
+        input_radius = 6.0
+        layout = "regular"
+        show_caps_lock = true
+        show_keyboard_layout = true
+        show_login_button = true
+        show_media = true
+        show_session_buttons = true
+        show_unlock_hint = true
+        show_weather = true
+
+    [lockscreen_widgets.widget."lockscreen-login-box@eDP-1"]
+    box_height = 196.0
+    box_width = 810.0
+    cx = 960.0
+    cy = 910.0
+    output = "eDP-1"
+    placement_height = 1080.0
+    placement_width = 1920.0
+    rotation = 0.0
+    type = "login_box"
+
+        [lockscreen_widgets.widget."lockscreen-login-box@eDP-1".settings]
+        background_color = "surface_variant"
+        background_opacity = 0.88
+        background_radius = 12.0
+        center_password_text = false
+        input_opacity = 1.0
+        input_radius = 6.0
+        layout = "regular"
+        show_caps_lock = true
+        show_keyboard_layout = true
+        show_login_button = true
+        show_media = true
+        show_session_buttons = true
+        show_unlock_hint = true
+        show_weather = true
+
+    [lockscreen_widgets.widget."lockscreen-login-box@eDP-2"]
+    box_height = 196.0
+    box_width = 810.0
+    cx = 854.0
+    cy = 778.0
+    output = "eDP-2"
+    placement_height = 0.0
+    placement_width = 0.0
+    rotation = 0.0
+    type = "login_box"
+
+        [lockscreen_widgets.widget."lockscreen-login-box@eDP-2".settings]
+        background_color = "surface_variant"
+        background_opacity = 0.88
+        background_radius = 12.0
+        center_password_text = false
+        input_opacity = 1.0
+        input_radius = 6.0
+        layout = "regular"
+        show_caps_lock = true
+        show_keyboard_layout = true
+        show_login_button = true
+        show_media = true
+        show_session_buttons = true
+        show_unlock_hint = true
+        show_weather = true
+
+    [lockscreen_widgets.widget.lockscreen-widget-0000000000000001]
+    box_height = 80.0
+    box_width = 192.0
+    cx = 960.0
+    cy = 316.0
+    output = "eDP-1"
+    placement_height = 1080.0
+    placement_width = 1920.0
+    rotation = 0.0
+    type = "clock"
+
+        [lockscreen_widgets.widget.lockscreen-widget-0000000000000001.settings]
+        background = false
+
+    [lockscreen_widgets.widget.lockscreen-widget-0000000000000002]
+    box_height = 192.0
+    box_width = 368.0
+    cx = 960.0
+    cy = 172.0
+    output = "eDP-1"
+    placement_height = 1080.0
+    placement_width = 1920.0
+    rotation = 0.0
+    type = "clock"
+
+        [lockscreen_widgets.widget.lockscreen-widget-0000000000000002.settings]
+        background = false
+        clock_style = "analog"
+
+    [lockscreen_widgets.widget.lockscreen-widget-0000000000000004]
+    box_height = 0.0
+    box_width = 0.0
+    cx = 960.0
+    cy = 540.0
+    output = "eDP-1"
+    placement_height = 1080.0
+    placement_width = 1920.0
+    rotation = 0.0
+    type = "fancy_audio_visualizer"
+
+        [lockscreen_widgets.widget.lockscreen-widget-0000000000000004.settings]
+        background = false
+
+    [lockscreen_widgets.widget.lockscreen-widget-0000000000000005]
+    box_height = 48.0
+    box_width = 48.0
+    cx = 960.0
+    cy = 540.0
+    output = "eDP-1"
+    placement_height = 1080.0
+    placement_width = 1920.0
+    rotation = 0.0
+    type = "sticker"
+
+        [lockscreen_widgets.widget.lockscreen-widget-0000000000000005.settings]
+        background = false
+        image_path = "/home/flyingyu/Pictures/Common/R.png"
+        opacity = 1.0
+
+    [lockscreen_widgets.widget.lockscreen-widget-0000000000000006]
+    box_height = 240.0
+    box_width = 240.0
+    cx = 1280.0
+    cy = 184.0
+    output = "HDMI-A-1"
+    placement_height = 1440.0
+    placement_width = 2560.0
+    rotation = 0.0
+    type = "clock"
+
+        [lockscreen_widgets.widget.lockscreen-widget-0000000000000006.settings]
+        background = false
+        clock_style = "analog"
+        color = "primary"
+
+    [lockscreen_widgets.widget.lockscreen-widget-0000000000000007]
+    box_height = 0.0
+    box_width = 0.0
+    cx = 1280.0
+    cy = 720.0
+    output = "HDMI-A-1"
+    placement_height = 1440.0
+    placement_width = 2560.0
+    rotation = 0.0
+    type = "fancy_audio_visualizer"
+
+        [lockscreen_widgets.widget.lockscreen-widget-0000000000000007.settings]
+        background = false
+
+    [lockscreen_widgets.widget.lockscreen-widget-0000000000000008]
+    box_height = 96.0
+    box_width = 208.0
+    cx = 1280.0
+    cy = 352.0
+    output = "HDMI-A-1"
+    placement_height = 1440.0
+    placement_width = 2560.0
+    rotation = 0.0
+    type = "clock"
+
+        [lockscreen_widgets.widget.lockscreen-widget-0000000000000008.settings]
+        background = false
+
+[nightlight]
+enabled = true
+temperature_day = 6600
+temperature_night = 4500
+
+[osd]
+position = "bottom_center"
+
+[plugin_settings."alexander/screen-toolkit"]
+panel-mode = "legacy"
+selected-ocr-lang = "eng+chi_sim"
+video-path = "~/Videos/Recordings"
+
+[plugin_settings."h465855hgg/lyrics"]
+font_weight = "bold"
+lyrics_sources = [ "qqmusic", "kugou", "apple_music", "spotify", "qishui", "splayer", "lrclib", "netease", "musixmatch" ]
+player_allowlist = [ "voicefox", "moekoemusic", "musicfree-desktop" ]
+
+[plugin_settings."noctalia/translator"]
+target_lang = "zh"
+
+[plugin_settings."yuuto/arch-updater"]
+auto_check_hours = 1
+update_cmd = "sysup"
+
+[plugins]
+auto_update = "all"
+enabled = [ "alexander/screen-toolkit", "noctalia/bongocat", "yuuto/arch-updater", "h465855hgg/lyrics" ]
+
+    [[plugins.source]]
+    kind = "git"
+    location = "https://github.com/noctalia-dev/official-plugins"
+    name = "official"
+
+    [[plugins.source]]
+    kind = "git"
+    location = "https://github.com/noctalia-dev/community-plugins"
+    name = "community"
+
+[shell]
+font_family = "WenQuanYi Zen Hei"
+password_style = "random"
+polkit_agent = true
+settings_window_translucent = true
+telemetry_enabled = true
+
+    [shell.launcher.providers.session]
+    prefix = ""
+
+    [shell.panel]
+    transparency_mode = "glass"
+
+    [[shell.session.actions]]
+    action = "lock"
+    countdown_seconds = 0.0
+    enabled = true
+    shortcut = "1"
+    variant = "default"
+
+    [[shell.session.actions]]
+    action = "logout"
+    countdown_seconds = 0.0
+    enabled = true
+    shortcut = "2"
+    variant = "default"
+
+    [[shell.session.actions]]
+    action = "lock_and_suspend"
+    countdown_seconds = 0.0
+    enabled = false
+    shortcut = "3"
+    variant = "default"
+
+    [[shell.session.actions]]
+    action = "reboot"
+    countdown_seconds = 0.0
+    enabled = true
+    shortcut = "4"
+    variant = "default"
+
+    [[shell.session.actions]]
+    action = "shutdown"
+    countdown_seconds = 0.0
+    enabled = true
+    shortcut = "5"
+    variant = "destructive"
+
+[theme]
+builtin = "Noctalia"
+community_palette = "Oxocarbon"
+mode = "dark"
+source = "wallpaper"
+wallpaper_scheme = "m3-fruit-salad"
+
+    [theme.templates]
+    builtin_ids = [ "btop", "cava", "gtk3", "gtk4", "kcolorscheme", "kitty", "niri", "qt", "starship" ]
+    community_ids = [
+        "pi-agent",
+        "telegram",
+        "libreoffice",
+        "neovim",
+        "vscode",
+        "steam",
+        "fuzzel",
+        "fastfetch",
+        "fcitx5",
+        "fzf",
+        "yazi"
+    ]
+
+[wallpaper]
+directory = "/home/flyingyu/Pictures/Wallpapers"
+directory_dark = "/home/flyingyu/Pictures/Wallpapers/dark"
+directory_light = "/home/flyingyu/Pictures/Wallpapers/light"
+
+    [wallpaper.automation]
+    enabled = true
+    recursive = false
+
+    [wallpaper.default]
+    path = "/home/flyingyu/Pictures/Wallpapers/dark/wallhaven-nrywlq_1920x1080.png"
+
+    [wallpaper.last]
+    path = "/home/flyingyu/Pictures/Wallpapers/dark/wallhaven-nrywlq_1920x1080.png"
+
+    [wallpaper.monitors.HDMI-A-1]
+    path = "/home/flyingyu/Pictures/Wallpapers/dark/wallhaven-nrywlq_1920x1080.png"
+
+    [wallpaper.monitors.eDP-1]
+    path = "/home/flyingyu/Pictures/Wallpapers/dark/wallhaven-nrywlq_1920x1080.png"
+
+[widget.active_window]
+capsule = true
+capsule_border = "primary"
+capsule_opacity = 0.0
+
+[widget.battery]
+capsule = true
+capsule_border = "primary"
+capsule_opacity = 0.0
+show_label = false
+
+[widget.bluetooth]
+capsule = true
+capsule_border = "primary"
+capsule_opacity = 0.0
+hide_when_no_connected_device = true
+
+[widget.brightness]
+capsule = true
+capsule_border = "primary"
+capsule_opacity = 0.0
+
+[widget.cat]
+capsule = true
+capsule_border = "primary"
+capsule_foreground = "primary"
+capsule_opacity = 0.0
+color = "primary"
+font_weight = 700
+input_devices = [ "/dev/input/by-id/usb-KEYBOARD_G61-MAG-event-kbd" ]
+type = "noctalia/bongocat:cat"
+
+[widget.clipboard]
+capsule = true
+capsule_border = "primary"
+capsule_opacity = 0.0
+
+[widget.clock]
+capsule = true
+capsule_border = "primary"
+capsule_opacity = 0.0
+
+[widget.cpu]
+capsule_border = "primary"
+capsule_opacity = 0.0
+
+    [widget.cpu.actions]
+    right = "exec kitty -e btop"
+
+[widget.launcher]
+capsule = true
+capsule_border = "primary"
+capsule_opacity = 0.0
+
+[widget.lyrics]
+active_color = "primary"
+capsule = true
+capsule_border = "primary"
+capsule_opacity = 0.0
+type = "h465855hgg/lyrics:lyrics"
+
+[widget.media]
+capsule = true
+capsule_border = "primary"
+capsule_opacity = 0.0
+enabled = false
+hide_when_no_media = true
+max_length = 150
+min_length = 100
+title_scroll = "on_hover"
+
+[widget.network]
+capsule = true
+capsule_border = "primary"
+capsule_opacity = 0.0
+
+[widget.notifications]
+capsule = true
+capsule_border = "primary"
+capsule_opacity = 0.0
+
+[widget.ram]
+capsule_border = "primary"
+capsule_opacity = 0.0
+
+    [widget.ram.actions]
+    right = "exec kitty -e btop"
+
+[widget.session]
+capsule = true
+capsule_border = "primary"
+capsule_opacity = 0.0
+
+[widget.tray]
+capsule = true
+capsule_border = "primary"
+capsule_opacity = 0.0
+
+[widget.volume]
+capsule = true
+capsule_border = "primary"
+capsule_opacity = 0.0
+
+[widget.wallpaper]
+capsule = true
+capsule_border = "primary"
+capsule_opacity = 0.0
+
+[widget.widget]
+capsule = true
+capsule_border = "primary"
+capsule_opacity = 0.0
+type = "yuuto/arch-updater:widget"
+
+[widget.widget_2]
+capsule = true
+capsule_border = "primary"
+capsule_opacity = 0.0
+type = "alexander/screen-toolkit:widget"
+
+[widget.workspaces]
+capsule = true
+capsule_border = "primary"
+capsule_opacity = 0.0

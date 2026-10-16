@@ -1,0 +1,897 @@
+[
+  {
+    "id": "001XOzhM34FjyY",
+    "source": "tx",
+    "name": "云村的烟花",
+    "singer": "邱有句、邹牧虞",
+    "album_name": "云村的烟花",
+    "duration": {
+      "secs": 244,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001bD9oU0BNWe4.jpg",
+    "qualities": [
+      "128k",
+      "320k"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "0018QLFt2dKxxE",
+    "source": "tx",
+    "name": "痴情冢 (钢琴版)",
+    "singer": "蜻蜓酱",
+    "album_name": "山海皆可平",
+    "duration": {
+      "secs": 189,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000002Izx7536j3JC.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "0008e7gY0N3ZJL",
+    "source": "tx",
+    "name": "Song of the Soul",
+    "singer": "July",
+    "album_name": "The Singles Collection, Vol.1",
+    "duration": {
+      "secs": 210,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000000ULOwz2AtsSB.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "003a29Hl3VY3sz",
+    "source": "tx",
+    "name": "繁华的寂静",
+    "singer": "文武贝",
+    "album_name": "繁华的寂静",
+    "duration": {
+      "secs": 220,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000004Hs4xU3UC8xg.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "002eHImk33E45j",
+    "source": "tx",
+    "name": "【FREE】lucky",
+    "singer": "FuGa pang",
+    "album_name": "lucky",
+    "duration": {
+      "secs": 157,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000000fTZVT3rwig8.jpg",
+    "qualities": [
+      "128k",
+      "320k"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "003AepR40yJdm8",
+    "source": "tx",
+    "name": "Flower Dance",
+    "singer": "DJ OKAWARI",
+    "album_name": "A Cup Of Coffee",
+    "duration": {
+      "secs": 263,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000002jiwiW3WA6te.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "001jI1lo00ivA5",
+    "source": "tx",
+    "name": "穿越时空的思念 (钢琴版)",
+    "singer": "dylanf",
+    "album_name": "钢琴曲 纯音乐 ~",
+    "duration": {
+      "secs": 121,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M0000045gAOI4KHk0T.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "003O9ZTs10FvqH",
+    "source": "tx",
+    "name": "いつも何度でも",
+    "singer": "宗次郎",
+    "album_name": "Prime Selection",
+    "duration": {
+      "secs": 198,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000000YPe2K2zOuWp.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "001ZcWis2fHdIE",
+    "source": "tx",
+    "name": "The Truth That You Leave",
+    "singer": "Pianoboy高至豪",
+    "album_name": "A best",
+    "duration": {
+      "secs": 223,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000004eCgl11lfiTr.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "001N4Ots19SsDU",
+    "source": "tx",
+    "name": "羽根",
+    "singer": "折户伸治",
+    "album_name": "AIR Original SoundTrack",
+    "duration": {
+      "secs": 207,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000002Uflih088lIb.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "003A7JRZ49ukLb",
+    "source": "tx",
+    "name": "Matrimonio De Amor (梦中的婚礼) (Inst.)",
+    "singer": "Richard Clayderman",
+    "album_name": "Lettre à ma Mère",
+    "duration": {
+      "secs": 159,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000003rVrny4WWYgT.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "001FwZ4n3n6fLJ",
+    "source": "tx",
+    "name": "Eutopia",
+    "singer": "Yoohsic Roomz",
+    "album_name": "Eutopia",
+    "duration": {
+      "secs": 292,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000003u5LgG0PQssL.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "004aF9ZF0Ly6Nl",
+    "source": "tx",
+    "name": "花火が瞬く夜に",
+    "singer": "羽肿",
+    "album_name": "花火が瞬く夜に",
+    "duration": {
+      "secs": 270,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000000hPuJ033oxYV.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "0021VYHj0M9W8V",
+    "source": "tx",
+    "name": "夜、萤火虫和你",
+    "singer": "AniFace",
+    "album_name": "夜、萤火虫和你",
+    "duration": {
+      "secs": 188,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M0000007G14R3tMDKG.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "004OKu994FuAfZ",
+    "source": "tx",
+    "name": "Letter That Writing in the Wind",
+    "singer": "July",
+    "album_name": "Happiness",
+    "duration": {
+      "secs": 243,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001mrdzu00xMPx.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "003OLFP81ZOtJv",
+    "source": "tx",
+    "name": "忆夏思乡",
+    "singer": "ILLBlAUER",
+    "album_name": "忆夏思乡",
+    "duration": {
+      "secs": 263,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000000ND6DI3J82eg.jpg",
+    "qualities": [
+      "128k",
+      "320k"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "003rflZ12mxMw0",
+    "source": "tx",
+    "name": "Rise - Epic Music",
+    "singer": "John Dreamer",
+    "album_name": "Rise - Epic Music",
+    "duration": {
+      "secs": 138,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001HBPC72U5ZUv.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "000Mrm384fJFOi",
+    "source": "tx",
+    "name": "铸剑山庄",
+    "singer": "蔡志展",
+    "album_name": "智冠超炫电玩配乐(20): 2001 武林群侠传",
+    "duration": {
+      "secs": 130,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000000mikjI23JzGU.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "003K07yP4g35Ml",
+    "source": "tx",
+    "name": "葬花",
+    "singer": "THT",
+    "album_name": "葬花",
+    "duration": {
+      "secs": 235,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000002pEZjO0P85tp.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "004X0xqt4NNBot",
+    "source": "tx",
+    "name": "鲸落",
+    "singer": "雨巷",
+    "album_name": "治愈",
+    "duration": {
+      "secs": 198,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001jiQXw2EWPJt.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "000d08Q61L0P05",
+    "source": "tx",
+    "name": "Ngẫu Hứng",
+    "singer": "Hoaprox",
+    "album_name": "Ngẫu Hứng",
+    "duration": {
+      "secs": 161,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001ezHGp3zVP41.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "000oop0U34Z2rH",
+    "source": "tx",
+    "name": "風の記憶",
+    "singer": "鹭起Herons",
+    "album_name": "風の記憶（风的记忆）",
+    "duration": {
+      "secs": 236,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000002vlEaI3yg7h0.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "325774883",
+    "source": "kg",
+    "name": "幻昼 (钢琴版)",
+    "singer": "垚垚",
+    "album_name": "幻昼(钢琴版)",
+    "duration": {
+      "secs": 137,
+      "nanos": 0
+    },
+    "cover_url": null,
+    "qualities": [
+      "128k",
+      "320k",
+      "flac",
+      "flac24bit"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "2689924744",
+    "source": "wy",
+    "name": "丝竹_长命女",
+    "singer": "燕云十六声、Yida",
+    "album_name": "河西幕中 | 《燕云十六声》游戏原声音乐辑（河西卷）",
+    "duration": {
+      "secs": 91,
+      "nanos": 44000000
+    },
+    "cover_url": "http://p1.music.126.net/Q4YuLAYiVEmNKHUYRcgyAA==/109951170673788684.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "000rEXFy3W2We1",
+    "source": "tx",
+    "name": "告白の夜 (LIVE!! Ayasa Theater episode 7)",
+    "singer": "Ayasa绚沙",
+    "album_name": "LIVE!! Ayasa Theater episode 7",
+    "duration": {
+      "secs": 289,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000003kgM6R21GM7Y.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "002MLS0D3zqTdU",
+    "source": "tx",
+    "name": "Komorebi",
+    "singer": "m-taku",
+    "album_name": "SOUND NOVEL",
+    "duration": {
+      "secs": 212,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M0000027Wbnc0RPf6P.jpg",
+    "qualities": [
+      "128k",
+      "320k"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "002ogab51HJC6U",
+    "source": "tx",
+    "name": "树里都是雾 (The History PHONK)",
+    "singer": "Hsun",
+    "album_name": "树里都是雾 (The History PHONK)",
+    "duration": {
+      "secs": 181,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000004ebyYt24JiQb.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "0042Tdcw39bA3f",
+    "source": "tx",
+    "name": "風の住む街",
+    "singer": "矶村由纪子",
+    "album_name": "風の住む街",
+    "duration": {
+      "secs": 285,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001WnZxL0rbDbE.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "004Fh0Km05PFud",
+    "source": "tx",
+    "name": "夜的钢琴曲五",
+    "singer": "石进",
+    "album_name": "石进原创作品--夜的钢琴曲31首Demo集",
+    "duration": {
+      "secs": 130,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001H7FNw0sI1IH.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "001yw1DW1phfeh",
+    "source": "tx",
+    "name": "青空",
+    "singer": "Candy_Wind",
+    "album_name": "雨之翼",
+    "duration": {
+      "secs": 201,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000004NtgkJ4Ib16e.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "000Gj5I4014YHA",
+    "source": "tx",
+    "name": "ふたりの気持ち",
+    "singer": "和田薫",
+    "album_name": "TVアニメーション「犬夜叉」オリジナルサウンドトラック「犬夜叉 音楽篇 参」",
+    "duration": {
+      "secs": 159,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000002pXc9C18xe3X.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "28287132",
+    "source": "wy",
+    "name": "やわらかな光",
+    "singer": "やまだ豊",
+    "album_name": "フジテレビ系ドラマ「僕のいた時間」オリジナルサウンドトラック",
+    "duration": {
+      "secs": 363,
+      "nanos": 106000000
+    },
+    "cover_url": "http://p2.music.126.net/rT84lYfzRILD2ItABa9xjQ==/109951171836750633.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "0004CxQh4GwiLL",
+    "source": "tx",
+    "name": "故郷の原風景 (故乡的原风景) (Inst.)",
+    "singer": "宗次郎",
+    "album_name": "宗次郎オリジナルベスト1991~2002",
+    "duration": {
+      "secs": 284,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000002ZivAf4C92B1.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "001yjooD07mpsM",
+    "source": "tx",
+    "name": "潮鳴り",
+    "singer": "折户伸治",
+    "album_name": "CLANNAD Original Soundtrack",
+    "duration": {
+      "secs": 157,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M0000001AKlN21C2LS.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "001DrNr22581j8",
+    "source": "tx",
+    "name": "Sakura Tears",
+    "singer": "Snigellin",
+    "album_name": "壹伍壹捌·离",
+    "duration": {
+      "secs": 183,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000004XUIbc2ThASt.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "0028Z04C1WbH0p",
+    "source": "tx",
+    "name": "雨道",
+    "singer": "Otokaze",
+    "album_name": "雨道",
+    "duration": {
+      "secs": 217,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000000Qxle71F6prG.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "0009DtA34CLrKk",
+    "source": "tx",
+    "name": "Windy Hill",
+    "singer": "羽肿",
+    "album_name": "Windy Hill",
+    "duration": {
+      "secs": 308,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000003DginG3bPjhc.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "001LTjkc1deP2x",
+    "source": "tx",
+    "name": "别叹",
+    "singer": "黄霄雲",
+    "album_name": "朝雪录 影视原声带",
+    "duration": {
+      "secs": 249,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001Zvc5E1pmtX1.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "004aGCV80yaYUp",
+    "source": "tx",
+    "name": "春庭雪 (2025华彩传承晚会现场)",
+    "singer": "张紫宁、郭雨昂",
+    "album_name": "",
+    "duration": {
+      "secs": 232,
+      "nanos": 0
+    },
+    "cover_url": null,
+    "qualities": [
+      "128k"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "001ujNEF1wAALb",
+    "source": "tx",
+    "name": "初见",
+    "singer": "余昭源、叶里",
+    "album_name": "东宫 电视剧原声大碟",
+    "duration": {
+      "secs": 269,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000004DOyew4e2tRW.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "001ddH3X0NpmQQ",
+    "source": "tx",
+    "name": "重逢",
+    "singer": "应嘉俐",
+    "album_name": "诛仙动画",
+    "duration": {
+      "secs": 305,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000002dpsLJ3mLc0y.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "0033ZzGD2n0gem",
+    "source": "tx",
+    "name": "望月 (美声女教授)",
+    "singer": "江枝婉",
+    "album_name": "望月（美声女教授）",
+    "duration": {
+      "secs": 224,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000003Wwf1u1mX6he.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "001PGGQ81Xxw9l",
+    "source": "tx",
+    "name": "烟花易冷 (Live)",
+    "singer": "林志炫",
+    "album_name": "我是歌手第一季 第6期",
+    "duration": {
+      "secs": 316,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000003XTB311VAqGw.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "003JgKS42LPv68",
+    "source": "tx",
+    "name": "南山雪",
+    "singer": "叶里",
+    "album_name": "南山雪",
+    "duration": {
+      "secs": 207,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000002POseG1EkaQB.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "003bDwhD1fx9kG",
+    "source": "tx",
+    "name": "宫花红",
+    "singer": "平生不晚、汐音社",
+    "album_name": "宫花红",
+    "duration": {
+      "secs": 179,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M00000102g7x03Ytn2.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "002vFTTV2Rywwk",
+    "source": "tx",
+    "name": "星河叹",
+    "singer": "黄龄",
+    "album_name": "星河叹",
+    "duration": {
+      "secs": 264,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000002Poknx47qUQi.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "003BgwNZ3gUjR2",
+    "source": "tx",
+    "name": "难却",
+    "singer": "平生不晚",
+    "album_name": "难却",
+    "duration": {
+      "secs": 186,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000003k1UYD0Epwsu.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "000xxz9X0FQI9L",
+    "source": "tx",
+    "name": "不问别离",
+    "singer": "指尖笑",
+    "album_name": "不问别离",
+    "duration": {
+      "secs": 180,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001T6CIp4B5ZPD.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "003Q8XLq2caeZJ",
+    "source": "tx",
+    "name": "一笑江湖",
+    "singer": "闻人听書_",
+    "album_name": "一笑江湖",
+    "duration": {
+      "secs": 208,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000002LpFim37pdCS.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  },
+  {
+    "id": "000EBP5w14Vhbz",
+    "source": "tx",
+    "name": "星河入梦",
+    "singer": "刘宇",
+    "album_name": "星河入梦",
+    "duration": {
+      "secs": 274,
+      "nanos": 0
+    },
+    "cover_url": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001GwfFF29wqIE.jpg",
+    "qualities": [
+      "128k",
+      "320k",
+      "flac"
+    ],
+    "file_path": null
+  }
+]

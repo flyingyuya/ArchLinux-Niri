@@ -54,7 +54,7 @@ Ice.plugins.mason = {
         "mason-org/mason-lspconfig.nvim",
     },
     event = "User IceLoad",
-    cmd = "Mason",
+    cmd = { "Mason", "MasonInstall", "MasonUninstall", "MasonUninstallAll", "MasonUpdate", "MasonLog" },
     opts = {
         ui = {
             icons = {

@@ -25,7 +25,7 @@ window-rule {
 }
 layer-rule{
     // match namespace="noctalia-wallpaper-*"
-    match namespace="noctalia-overview-*"
+    match namespace="^noctalia-backdrop$"
     place-within-backdrop true
 }
 
@@ -37,7 +37,7 @@ window-rule {
     // - Flatpak Firefox (app-id is "org.mozilla.firefox")
     match app-id=r#"firefox$"# title="^Picture-in-Picture$"
     match app-id="waypaper"
-    match app-id="pot"
+    match app-id="Pot"
     match app-id="btrfs-assistant"
     match app-id="SimpleTex"
     match app-id="org.gnome.FileRoller"

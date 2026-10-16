@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=wechat
 Name[zh_CN]=微信
-Exec=env GTK_IM_MODULE=fcitx QT_IM_MODULE=fcitx /opt/wechat/wechat --gtk-version=3 %U
+Exec=env GTK_IM_MODULE=fcitx QT_IM_MODULE=text-input-unstable-v3 /opt/wechat/wechat --gtk-version=3 %U
 StartupNotify=true
 Terminal=false
 Icon=/usr/share/icons/hicolor/256x256/apps/wechat.png

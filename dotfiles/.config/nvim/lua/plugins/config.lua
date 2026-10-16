@@ -393,7 +393,8 @@ config["markdown-preview"] = {
         vim.g.mkdp_filetypes = { "markdown" }
         vim.g.mkdp_auto_close = 0
     end,
-    build = "cd app && yarn install",
+    -- 系统无 yarn,改用 install.sh 下载预编译二进制
+    build = "cd app && ./install.sh",
     keys = {
         {
             "<A-b>",
@@ -614,14 +615,17 @@ config["nvim-treesitter"] = {
         -- stylua: ignore start
         ensure_installed = {
             "bash", "c", "c_sharp", "cpp", "css", "fish", "go", "html", "javascript", "json", "lua", "markdown",
-            "markdown_inline", "python", "query", "rust", "toml", "typescript", "typst", "tsx", "vim", "vimdoc",
-            "latex"
+            "markdown_inline", "python", "query", "rust", "systemverilog", "toml", "typescript", "typst", "tsx",
+            "vim", "vimdoc", "latex"
         },
         -- stylua: ignore end
     },
     config = function(_, opts)
         local nvim_treesitter = require "nvim-treesitter"
         nvim_treesitter.setup()
+
+        -- systemverilog parser 同时覆盖 verilog 与 systemverilog 两种文件类型
+        vim.treesitter.language.register("systemverilog", "verilog")
 
         local pattern = {}
         for _, parser in ipairs(opts.ensure_installed) do
@@ -810,6 +814,43 @@ config.undotree = {
     end,
     keys = {
         { "<leader>uu", "<Cmd>UndotreeToggle<CR>", desc = "undo tree toggle", silent = true },
+    },
+}
+
+config.vimtex = {
+    "lervag/vimtex",
+    ft = { "tex", "bib" },
+    config = function()
+        vim.g.tex_flavor = "latex"
+        vim.g.vimtex_compiler_method = "latexmk"
+        vim.g.vimtex_compiler_latexmk = {
+            -- 禁用自动编译
+            continuous = 0,
+
+            options = {
+                "-xelatex",
+                "-file-line-error",
+                "-pdf",
+                "-interaction=nonstopmode",
+                "-synctex=1",
+            },
+        }
+        -- zathura is already installed on this system
+        -- vim.g.vimtex_view_method = "zathura"
+        -- vim.g.vimtex_quickfix_mode = 0
+        
+        -- 设置查看器类型设为generic，并直接指定成包装脚本，最后加上 -x 占位符
+        vim.g.vimtex_view_method = "general"
+        vim.g.vimtex_view_general_viewer = "/home/flyingyu/.config/nvim/scripts/zathura-wayland"
+        vim.g.vimtex_view_general_options = [[-x "PLACEHOLDER" --synctex-forward @line:@col:@tex @pdf]]
+    end,
+    keys = {
+        { "<leader>Lc", "<Cmd>VimtexCompile<CR>", desc = "compile", ft = "tex", silent = true },
+        { "<leader>Lv", "<Cmd>VimtexView<CR>", desc = "view pdf", ft = "tex", silent = true },
+        { "<leader>Lt", "<Cmd>VimtexTocToggle<CR>", desc = "toggle toc", ft = "tex", silent = true },
+        { "<leader>Le", "<Cmd>VimtexErrors<CR>", desc = "show errors", ft = "tex", silent = true },
+        { "<leader>Ll", "<Cmd>VimtexClean<CR>", desc = "clean aux files", ft = "tex", silent = true },
+        { "<leader>Ls", "<Cmd>VimtexStop<CR>", desc = "stop compile", ft = "tex", silent = true },
     },
 }
 

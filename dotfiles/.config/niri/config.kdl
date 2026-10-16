@@ -35,11 +35,11 @@ environment {
 // 光标配置
 cursor {
     //鼠标的光标主题
-    xcursor-theme "Bibata-Modern-Ice"
+    xcursor-theme "Vimix-cursors"
     //大小
-    xcursor-size 30
-    //闲置15s自动隐藏光标
-    hide-after-inactive-ms 15000
+    xcursor-size 24
+    //闲置10s自动隐藏光标
+    hide-after-inactive-ms 10000
 
 }
 
@@ -370,7 +370,7 @@ spawn-sh-at-startup "dbus-update-activation-environment --systemd WAYLAND_DISPLA
 // 屏幕分享、录屏相关的环境设置
 spawn-sh-at-startup "/usr/lib/xdg-desktop-portal-gtk"
 // 询问管理员权限功能（身份验证）
-spawn-at-startup "/usr/lib/polkit-kde-authentication-agent-1"
+spawn-at-startup "/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1"
 // gnome 密钥管理服务
 spawn-sh-at-startup "gnome-keyring-daemon --start --components=secrets"
 // 输入法
@@ -399,7 +399,9 @@ spawn-at-startup "fcitx5 -d"
 
 // To run a shell command (with variables, pipes, etc.), use spawn-sh-at-startup:
 // spawn-sh-at-startup "qs -c ~/source/qs/MyAwesomeShell"
-spawn-sh-at-startup "qs -c noctalia-shell"
+
+// spawn-sh-at-startup "noctalia"
+spawn-sh-at-startup "env http_proxy=http://127.0.0.1:7890 https_proxy=http://127.0.0.1:7890 noctalia"
 
 // 取消启动niri时自动开启快捷键教程
 hotkey-overlay {

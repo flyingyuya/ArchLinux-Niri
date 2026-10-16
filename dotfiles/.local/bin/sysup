@@ -171,10 +171,10 @@ trap 'kill $SUDO_PID 2>/dev/null' EXIT
 # 7. Check AUR Helper
 # ------------------------------
 UPDATE_CMD=""
-if command -v paru >/dev/null 2>&1; then
-  UPDATE_CMD="paru"
-elif command -v yay >/dev/null 2>&1; then
+if command -v yay >/dev/null 2>&1; then
   UPDATE_CMD="yay"
+elif command -v paru >/dev/null 2>&1; then
+  UPDATE_CMD="paru"
 else
   _error "$MSG_NO_HELPER"
 fi

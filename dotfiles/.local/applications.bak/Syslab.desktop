@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Exec=env LC_CTYPE=zh_CN.UTF-8 /opt/mworks-syslab/Bin/desktop.sh --enable-features=UseOzonePlatform --ozone-platform=wayland --enable-wayland-ime %U
+Name=MWORKS.Syslab 2026a
+Encoding=UTF-8
+Icon=/opt/mworks-syslab/Install/config/logo.png
+StartupWMClass=MWORKS.Syslab 2026a
+Version=26.2.0
+Terminal=false
+Categories=Development
+
